@@ -1,0 +1,3569 @@
+{
+    "games": [
+        {
+            "title": "1943 - The Battle Of Midway (u) [!]",
+            "file": "1943 - The Battle of Midway (U) [!].nes"
+        },
+        {
+            "title": "3-d Worldrunner (u) [!]",
+            "file": "3-D WorldRunner (U) [!].nes"
+        },
+        {
+            "title": "720 Degrees (u) [!]",
+            "file": "720 Degrees (U) [!].nes"
+        },
+        {
+            "title": "8 Eyes (u) [!]",
+            "file": "8 Eyes (U) [!].nes"
+        },
+        {
+            "title": "8-bit Adv Steins;gate (u) (sw) [!]",
+            "file": "8-BIT ADV STEINS;GATE (U) (SW) [!].nes"
+        },
+        {
+            "title": "8-bit Adv Steins;gate (u) (sw) [b1]",
+            "file": "8-BIT ADV STEINS;GATE (U) (SW) [b1].nes"
+        },
+        {
+            "title": "Abadox - The Deadly Inner War (u) [!]",
+            "file": "Abadox - The Deadly Inner War (U) [!].nes"
+        },
+        {
+            "title": "Addams Family, The (u) [!]",
+            "file": "Addams Family, The (U) [!].nes"
+        },
+        {
+            "title": "Addams Family, The - Pugsley's Scavenger Hunt (u) [!]",
+            "file": "Addams Family, The - Pugsley's Scavenger Hunt (U) [!].nes"
+        },
+        {
+            "title": "Advanced Dungeons & Dragons - Dragonstrike (u) [!]",
+            "file": "Advanced Dungeons & Dragons - DragonStrike (U) [!].nes"
+        },
+        {
+            "title": "Advanced Dungeons & Dragons - Heroes Of The Lance (u) [!]",
+            "file": "Advanced Dungeons & Dragons - Heroes of the Lance (U) [!].nes"
+        },
+        {
+            "title": "Advanced Dungeons & Dragons - Hillsfar (u) [!]",
+            "file": "Advanced Dungeons & Dragons - Hillsfar (U) [!].nes"
+        },
+        {
+            "title": "Advanced Dungeons & Dragons - Pool Of Radiance (u) [!]",
+            "file": "Advanced Dungeons & Dragons - Pool of Radiance (U) [!].nes"
+        },
+        {
+            "title": "Adventure Island (u) [!]",
+            "file": "Adventure Island (U) [!].nes"
+        },
+        {
+            "title": "Adventure Island 3 (u) [!]",
+            "file": "Adventure Island 3 (U) [!].nes"
+        },
+        {
+            "title": "Adventure Island Ii (u) [!]",
+            "file": "Adventure Island II (U) [!].nes"
+        },
+        {
+            "title": "Adventures In The Magic Kingdom (u) [!]",
+            "file": "Adventures in the Magic Kingdom (U) [!].nes"
+        },
+        {
+            "title": "Adventures Of Bayou Billy, The (u) (vc) [!]",
+            "file": "Adventures of Bayou Billy, The (U) (VC) [!].nes"
+        },
+        {
+            "title": "Adventures Of Bayou Billy, The (u) [!]",
+            "file": "Adventures of Bayou Billy, The (U) [!].nes"
+        },
+        {
+            "title": "Adventures Of Dino Riki (u) [!]",
+            "file": "Adventures of Dino Riki (U) [!].nes"
+        },
+        {
+            "title": "Adventures Of Dr. Franken, The (u) (proto) [!]",
+            "file": "Adventures of Dr. Franken, The (U) (Proto) [!].nes"
+        },
+        {
+            "title": "Adventures Of Dr. Franken, The (u) (proto) [b1]",
+            "file": "Adventures of Dr. Franken, The (U) (Proto) [b1].nes"
+        },
+        {
+            "title": "Adventures Of Gilligan's Island, The (u) [!]",
+            "file": "Adventures of Gilligan's Island, The (U) [!].nes"
+        },
+        {
+            "title": "Adventures Of Lolo (u) (vc) [!]",
+            "file": "Adventures of Lolo (U) (VC) [!].nes"
+        },
+        {
+            "title": "Adventures Of Lolo (u) [!]",
+            "file": "Adventures of Lolo (U) [!].nes"
+        },
+        {
+            "title": "Adventures Of Lolo 2 (u) (vc) [!]",
+            "file": "Adventures of Lolo 2 (U) (VC) [!].nes"
+        },
+        {
+            "title": "Adventures Of Lolo 2 (u) [!]",
+            "file": "Adventures of Lolo 2 (U) [!].nes"
+        },
+        {
+            "title": "Adventures Of Lolo 3 (u) [!]",
+            "file": "Adventures of Lolo 3 (U) [!].nes"
+        },
+        {
+            "title": "Adventures Of Rad Gravity, The (u) [!]",
+            "file": "Adventures of Rad Gravity, The (U) [!].nes"
+        },
+        {
+            "title": "Adventures Of Rocky And Bullwinkle And Friends, The (u) [!]",
+            "file": "Adventures of Rocky and Bullwinkle and Friends, The (U) [!].nes"
+        },
+        {
+            "title": "Adventures Of Tom Sawyer (u) [!]",
+            "file": "Adventures of Tom Sawyer (U) [!].nes"
+        },
+        {
+            "title": "Air Fortress (u) [!]",
+            "file": "Air Fortress (U) [!].nes"
+        },
+        {
+            "title": "Airball (u) (proto-1)",
+            "file": "Airball (U) (Proto-1).nes"
+        },
+        {
+            "title": "Airball (u) (proto-2)",
+            "file": "Airball (U) (Proto-2).nes"
+        },
+        {
+            "title": "Airwolf (u) [!]",
+            "file": "Airwolf (U) [!].nes"
+        },
+        {
+            "title": "Al Unser Jr. Turbo Racing (u) [!]",
+            "file": "Al Unser Jr. Turbo Racing (U) [!].nes"
+        },
+        {
+            "title": "Alex Demeo's Race America (u) [!]",
+            "file": "Alex DeMeo's Race America (U) [!].nes"
+        },
+        {
+            "title": "Alfred Chicken (u) [!]",
+            "file": "Alfred Chicken (U) [!].nes"
+        },
+        {
+            "title": "Alien 3 (u) [!]",
+            "file": "Alien 3 (U) [!].nes"
+        },
+        {
+            "title": "All-pro Basketball (u) [!]",
+            "file": "All-Pro Basketball (U) [!].nes"
+        },
+        {
+            "title": "Alpha Mission (u) [!]",
+            "file": "Alpha Mission (U) [!].nes"
+        },
+        {
+            "title": "Amagon (u) [!]",
+            "file": "Amagon (U) [!].nes"
+        },
+        {
+            "title": "American Gladiators (u) [!]",
+            "file": "American Gladiators (U) [!].nes"
+        },
+        {
+            "title": "Anticipation (u) [!]",
+            "file": "Anticipation (U) [!].nes"
+        },
+        {
+            "title": "Arcadia Vi (u) (proto) [!]",
+            "file": "Arcadia VI (U) (Proto) [!].nes"
+        },
+        {
+            "title": "Arch Rivals - A Basketbrawl! (u) [!]",
+            "file": "Arch Rivals - A Basketbrawl! (U) [!].nes"
+        },
+        {
+            "title": "Archon (u) [!]",
+            "file": "Archon (U) [!].nes"
+        },
+        {
+            "title": "Arkanoid (u) [!]",
+            "file": "Arkanoid (U) [!].nes"
+        },
+        {
+            "title": "Arkista's Ring (u) [!]",
+            "file": "Arkista's Ring (U) [!].nes"
+        },
+        {
+            "title": "Astyanax (u) [!]",
+            "file": "Astyanax (U) [!].nes"
+        },
+        {
+            "title": "Athena (u) [!]",
+            "file": "Athena (U) [!].nes"
+        },
+        {
+            "title": "Athletic World (u) [!]",
+            "file": "Athletic World (U) [!].nes"
+        },
+        {
+            "title": "Attack Of The Killer Tomatoes (u) [!]",
+            "file": "Attack of the Killer Tomatoes (U) [!].nes"
+        },
+        {
+            "title": "Back To The Future (u) [!]",
+            "file": "Back to the Future (U) [!].nes"
+        },
+        {
+            "title": "Back To The Future Part Ii & Iii (u) [!]",
+            "file": "Back to the Future Part II & III (U) [!].nes"
+        },
+        {
+            "title": "Bad Dudes (u) [!]",
+            "file": "Bad Dudes (U) [!].nes"
+        },
+        {
+            "title": "Bad News Baseball (u) [!]",
+            "file": "Bad News Baseball (U) [!].nes"
+        },
+        {
+            "title": "Bad Street Brawler (u) [!]",
+            "file": "Bad Street Brawler (U) [!].nes"
+        },
+        {
+            "title": "Balloon Fight (u) (e-reader) [!]",
+            "file": "Balloon Fight (U) (e-Reader) [!].nes"
+        },
+        {
+            "title": "Balloon Fight (u) [!]",
+            "file": "Balloon Fight (U) [!].nes"
+        },
+        {
+            "title": "Bandai Golf - Challenge Pebble Beach (u) [!]",
+            "file": "Bandai Golf - Challenge Pebble Beach (U) [!].nes"
+        },
+        {
+            "title": "Bandit Kings Of Ancient China (u) [!]",
+            "file": "Bandit Kings of Ancient China (U) [!].nes"
+        },
+        {
+            "title": "Barbie (u) (v1.0) [!]",
+            "file": "Barbie (U) (V1.0) [!].nes"
+        },
+        {
+            "title": "Barbie (u) (v1.1) [!]",
+            "file": "Barbie (U) (V1.1) [!].nes"
+        },
+        {
+            "title": "Bard's Tale, The (u) [!]",
+            "file": "Bard's Tale, The (U) [!].nes"
+        },
+        {
+            "title": "Barker Bill's Trick Shooting (u) [!]",
+            "file": "Barker Bill's Trick Shooting (U) [!].nes"
+        },
+        {
+            "title": "Baseball (u) (e-reader) [!]",
+            "file": "Baseball (U) (e-Reader) [!].nes"
+        },
+        {
+            "title": "Baseball Simulator 1.000 (u) (vc) [!]",
+            "file": "Baseball Simulator 1.000 (U) (VC) [!].nes"
+        },
+        {
+            "title": "Baseball Simulator 1.000 (u) [!]",
+            "file": "Baseball Simulator 1.000 (U) [!].nes"
+        },
+        {
+            "title": "Baseball Stars (u) [!]",
+            "file": "Baseball Stars (U) [!].nes"
+        },
+        {
+            "title": "Baseball Stars Ii (u) [!]",
+            "file": "Baseball Stars II (U) [!].nes"
+        },
+        {
+            "title": "Bases Loaded (u) (v1.0) [!]",
+            "file": "Bases Loaded (U) (V1.0) [!].nes"
+        },
+        {
+            "title": "Bases Loaded (u) (v1.1) [!]",
+            "file": "Bases Loaded (U) (V1.1) [!].nes"
+        },
+        {
+            "title": "Bases Loaded (u) (v1.2) [!]",
+            "file": "Bases Loaded (U) (V1.2) [!].nes"
+        },
+        {
+            "title": "Bases Loaded 3 (u) [!]",
+            "file": "Bases Loaded 3 (U) [!].nes"
+        },
+        {
+            "title": "Bases Loaded 4 (u) [!]",
+            "file": "Bases Loaded 4 (U) [!].nes"
+        },
+        {
+            "title": "Bases Loaded Ii - Second Season (u) [!]",
+            "file": "Bases Loaded II - Second Season (U) [!].nes"
+        },
+        {
+            "title": "Bashi Bazook - Morphoid Masher (u) (proto-1989.05.29) [!]",
+            "file": "Bashi Bazook - Morphoid Masher (U) (Proto-1989.05.29) [!].nes"
+        },
+        {
+            "title": "Batman - Return Of The Joker (u) [!]",
+            "file": "Batman - Return of the Joker (U) [!].nes"
+        },
+        {
+            "title": "Batman - The Video Game (u) [!]",
+            "file": "Batman - The Video Game (U) [!].nes"
+        },
+        {
+            "title": "Batman Returns (u) [!]",
+            "file": "Batman Returns (U) [!].nes"
+        },
+        {
+            "title": "Battle Chess (u) [!]",
+            "file": "Battle Chess (U) [!].nes"
+        },
+        {
+            "title": "Battle Of Olympus, The (u) [!]",
+            "file": "Battle of Olympus, The (U) [!].nes"
+        },
+        {
+            "title": "Battle Of Olympus, The (u) [f1] (sram)",
+            "file": "Battle of Olympus, The (U) [f1] (SRAM).nes"
+        },
+        {
+            "title": "Battleship (u) [!]",
+            "file": "Battleship (U) [!].nes"
+        },
+        {
+            "title": "Battletoads & Double Dragon (u) [!]",
+            "file": "Battletoads & Double Dragon (U) [!].nes"
+        },
+        {
+            "title": "Battletoads (u) [!]",
+            "file": "Battletoads (U) [!].nes"
+        },
+        {
+            "title": "Battletoads (u) [f1] (bugs)",
+            "file": "Battletoads (U) [f1] (BUGS).nes"
+        },
+        {
+            "title": "Beetlejuice (u) [!]",
+            "file": "Beetlejuice (U) [!].nes"
+        },
+        {
+            "title": "Best Of The Best - Championship Karate (u) [!]",
+            "file": "Best of the Best - Championship Karate (U) [!].nes"
+        },
+        {
+            "title": "Bigfoot (u) [!]",
+            "file": "Bigfoot (U) [!].nes"
+        },
+        {
+            "title": "Bill & Ted's Excellent Video Game Adventure (u) [!]",
+            "file": "Bill & Ted's Excellent Video Game Adventure (U) [!].nes"
+        },
+        {
+            "title": "Bill Elliott's Nascar Challenge (u) [!]",
+            "file": "Bill Elliott's NASCAR Challenge (U) [!].nes"
+        },
+        {
+            "title": "Bio Force Ape (u) (proto) [!]",
+            "file": "Bio Force Ape (U) (Proto) [!].nes"
+        },
+        {
+            "title": "Bionic Commando (u) (capcom Classics Mini Mix) [!]",
+            "file": "Bionic Commando (U) (Capcom Classics Mini Mix) [!].nes"
+        },
+        {
+            "title": "Bionic Commando (u) [!]",
+            "file": "Bionic Commando (U) [!].nes"
+        },
+        {
+            "title": "Black Bass, The (u) [!]",
+            "file": "Black Bass, The (U) [!].nes"
+        },
+        {
+            "title": "Blades Of Steel (u) (vc) [!]",
+            "file": "Blades of Steel (U) (VC) [!].nes"
+        },
+        {
+            "title": "Blades Of Steel (u) [!]",
+            "file": "Blades of Steel (U) [!].nes"
+        },
+        {
+            "title": "Blaster Master (u) [!]",
+            "file": "Blaster Master (U) [!].nes"
+        },
+        {
+            "title": "Blockout (u) (proto) [!]",
+            "file": "Blockout (U) (Proto) [!].nes"
+        },
+        {
+            "title": "Blue Marlin, The (u) [!]",
+            "file": "Blue Marlin, The (U) [!].nes"
+        },
+        {
+            "title": "Blues Brothers, The (u) [!]",
+            "file": "Blues Brothers, The (U) [!].nes"
+        },
+        {
+            "title": "Bo Jackson Baseball (u) [!]",
+            "file": "Bo Jackson Baseball (U) [!].nes"
+        },
+        {
+            "title": "Bomberman (u) [!]",
+            "file": "Bomberman (U) [!].nes"
+        },
+        {
+            "title": "Bomberman Ii (u) [!]",
+            "file": "Bomberman II (U) [!].nes"
+        },
+        {
+            "title": "Bonk's Adventure (u) [!]",
+            "file": "Bonk's Adventure (U) [!].nes"
+        },
+        {
+            "title": "Boulder Dash (u) [!]",
+            "file": "Boulder Dash (U) [!].nes"
+        },
+        {
+            "title": "Bowling (u) (proto) [!]",
+            "file": "Bowling (U) (Proto) [!].nes"
+        },
+        {
+            "title": "Bram Stoker's Dracula (u) [!]",
+            "file": "Bram Stoker's Dracula (U) [!].nes"
+        },
+        {
+            "title": "Break Time - The National Pool Tour (u) [!]",
+            "file": "Break Time - The National Pool Tour (U) [!].nes"
+        },
+        {
+            "title": "Breakthru (u) [!]",
+            "file": "BreakThru (U) [!].nes"
+        },
+        {
+            "title": "Bubble Bobble (u) (vc) [!]",
+            "file": "Bubble Bobble (U) (VC) [!].nes"
+        },
+        {
+            "title": "Bubble Bobble (u) [!]",
+            "file": "Bubble Bobble (U) [!].nes"
+        },
+        {
+            "title": "Bubble Bobble (u) [o1]",
+            "file": "Bubble Bobble (U) [o1].nes"
+        },
+        {
+            "title": "Bubble Bobble Part 2 (u) [!]",
+            "file": "Bubble Bobble Part 2 (U) [!].nes"
+        },
+        {
+            "title": "Bucky O'hare (u) [!]",
+            "file": "Bucky O'Hare (U) [!].nes"
+        },
+        {
+            "title": "Bugs Bunny Birthday Blowout, The (u) [!]",
+            "file": "Bugs Bunny Birthday Blowout, The (U) [!].nes"
+        },
+        {
+            "title": "Bugs Bunny Crazy Castle, The (u) [!]",
+            "file": "Bugs Bunny Crazy Castle, The (U) [!].nes"
+        },
+        {
+            "title": "Bump 'n' Jump (u) [!]",
+            "file": "Bump 'n' Jump (U) [!].nes"
+        },
+        {
+            "title": "Burai Fighter (u) [!]",
+            "file": "Burai Fighter (U) [!].nes"
+        },
+        {
+            "title": "Burai Fighter (u) [t1]",
+            "file": "Burai Fighter (U) [t1].nes"
+        },
+        {
+            "title": "Burgertime (u) [!]",
+            "file": "BurgerTime (U) [!].nes"
+        },
+        {
+            "title": "Buzz & Waldog (u) (proto) [!]",
+            "file": "Buzz & Waldog (U) (Proto) [!].nes"
+        },
+        {
+            "title": "Buzz & Waldog (u) (proto) [h1] (mmc3)",
+            "file": "Buzz & Waldog (U) (Proto) [h1] (MMC3).nes"
+        },
+        {
+            "title": "Cabal (u) [!]",
+            "file": "Cabal (U) [!].nes"
+        },
+        {
+            "title": "Caesars Palace (u) [!]",
+            "file": "Caesars Palace (U) [!].nes"
+        },
+        {
+            "title": "California Games (u) [!]",
+            "file": "California Games (U) [!].nes"
+        },
+        {
+            "title": "California Raisins - The Grape Escape (u) (proto-1) [!]",
+            "file": "California Raisins - The Grape Escape (U) (Proto-1) [!].nes"
+        },
+        {
+            "title": "California Raisins - The Grape Escape (u) (proto-2) [!]",
+            "file": "California Raisins - The Grape Escape (U) (Proto-2) [!].nes"
+        },
+        {
+            "title": "Capcom's Gold Medal Challenge '92 (u) [!]",
+            "file": "Capcom's Gold Medal Challenge '92 (U) [!].nes"
+        },
+        {
+            "title": "Captain America And The Avengers (u) [!]",
+            "file": "Captain America and the Avengers (U) [!].nes"
+        },
+        {
+            "title": "Captain Planet And The Planeteers (u) [!]",
+            "file": "Captain Planet and the Planeteers (U) [!].nes"
+        },
+        {
+            "title": "Captain Skyhawk (u) (v1.0) [!]",
+            "file": "Captain Skyhawk (U) (V1.0) [!].nes"
+        },
+        {
+            "title": "Captain Skyhawk (u) (v1.1) [!]",
+            "file": "Captain Skyhawk (U) (V1.1) [!].nes"
+        },
+        {
+            "title": "Casino Kid (u) [!]",
+            "file": "Casino Kid (U) [!].nes"
+        },
+        {
+            "title": "Casino Kid Ii (u) [!]",
+            "file": "Casino Kid II (U) [!].nes"
+        },
+        {
+            "title": "Castelian (u) [!]",
+            "file": "Castelian (U) [!].nes"
+        },
+        {
+            "title": "Castle Of Dragon (u) [!]",
+            "file": "Castle of Dragon (U) [!].nes"
+        },
+        {
+            "title": "Castlequest (u) [!]",
+            "file": "Castlequest (U) [!].nes"
+        },
+        {
+            "title": "Castlevania (u) (v1.0) (castlevania Anniversary Collection) [!]",
+            "file": "Castlevania (U) (V1.0) (Castlevania Anniversary Collection) [!].nes"
+        },
+        {
+            "title": "Castlevania (u) (v1.0) [!]",
+            "file": "Castlevania (U) (V1.0) [!].nes"
+        },
+        {
+            "title": "Castlevania (u) (v1.1) (vc) [!]",
+            "file": "Castlevania (U) (V1.1) (VC) [!].nes"
+        },
+        {
+            "title": "Castlevania (u) (v1.1) [!]",
+            "file": "Castlevania (U) (V1.1) [!].nes"
+        },
+        {
+            "title": "Castlevania Ii - Simon's Quest (u) (castlevania Anniversary Collection) [!]",
+            "file": "Castlevania II - Simon's Quest (U) (Castlevania Anniversary Collection) [!].nes"
+        },
+        {
+            "title": "Castlevania Ii - Simon's Quest (u) [!]",
+            "file": "Castlevania II - Simon's Quest (U) [!].nes"
+        },
+        {
+            "title": "Castlevania Iii - Dracula's Curse (u) (castlevania Anniversary Collection) [!]",
+            "file": "Castlevania III - Dracula's Curse (U) (Castlevania Anniversary Collection) [!].nes"
+        },
+        {
+            "title": "Castlevania Iii - Dracula's Curse (u) (vc) [!]",
+            "file": "Castlevania III - Dracula's Curse (U) (VC) [!].nes"
+        },
+        {
+            "title": "Castlevania Iii - Dracula's Curse (u) [!]",
+            "file": "Castlevania III - Dracula's Curse (U) [!].nes"
+        },
+        {
+            "title": "Castlevania Iii - Dracula's Curse (u) [hack1.0 Dragonsbrethren (20.11.2005)]",
+            "file": "Castlevania III - Dracula's Curse (U) [Hack1.0 Dragonsbrethren (20.11.2005)].nes"
+        },
+        {
+            "title": "Caveman Games (u) [!]",
+            "file": "Caveman Games (U) [!].nes"
+        },
+        {
+            "title": "Championship Bowling (u) [!]",
+            "file": "Championship Bowling (U) [!].nes"
+        },
+        {
+            "title": "Championship Pool (u) [!]",
+            "file": "Championship Pool (U) [!].nes"
+        },
+        {
+            "title": "Chessmaster, The (u) (v1.0) [!]",
+            "file": "Chessmaster, The (U) (V1.0) [!].nes"
+        },
+        {
+            "title": "Chessmaster, The (u) (v1.1) [!]",
+            "file": "Chessmaster, The (U) (V1.1) [!].nes"
+        },
+        {
+            "title": "Chip 'n Dale - Rescue Rangers (u) [!]",
+            "file": "Chip 'n Dale - Rescue Rangers (U) [!].nes"
+        },
+        {
+            "title": "Chip 'n Dale - Rescue Rangers (u) [f1] (bugs)",
+            "file": "Chip 'n Dale - Rescue Rangers (U) [f1] (BUGS).nes"
+        },
+        {
+            "title": "Chip 'n Dale - Rescue Rangers (u) [hm04]",
+            "file": "Chip 'n Dale - Rescue Rangers (U) [hM04].nes"
+        },
+        {
+            "title": "Chip 'n Dale - Rescue Rangers 2 (u) [!]",
+            "file": "Chip 'n Dale - Rescue Rangers 2 (U) [!].nes"
+        },
+        {
+            "title": "Chip's Challenge (u) (proto) [!]",
+            "file": "Chip's Challenge (U) (Proto) [!].nes"
+        },
+        {
+            "title": "Chris Evert & Ivan Lendl In Top Players' Tennis (u) [!]",
+            "file": "Chris Evert & Ivan Lendl in Top Players' Tennis (U) [!].nes"
+        },
+        {
+            "title": "Chubby Cherub (u) [!]",
+            "file": "Chubby Cherub (U) [!].nes"
+        },
+        {
+            "title": "Chuck Yeager's Fighter Combat (u) (proto) [!]",
+            "file": "Chuck Yeager's Fighter Combat (U) (Proto) [!].nes"
+        },
+        {
+            "title": "Circus Caper (u) [!]",
+            "file": "Circus Caper (U) [!].nes"
+        },
+        {
+            "title": "City Connection (u) [!]",
+            "file": "City Connection (U) [!].nes"
+        },
+        {
+            "title": "Clash At Demonhead (u) [!]",
+            "file": "Clash at Demonhead (U) [!].nes"
+        },
+        {
+            "title": "Clash At Demonhead (u) [f1] (sram)",
+            "file": "Clash at Demonhead (U) [f1] (SRAM).nes"
+        },
+        {
+            "title": "Classic Concentration (u) [!]",
+            "file": "Classic Concentration (U) [!].nes"
+        },
+        {
+            "title": "Cliffhanger (u) [!]",
+            "file": "Cliffhanger (U) [!].nes"
+        },
+        {
+            "title": "Cliffhanger (u) [f1] (bright)",
+            "file": "Cliffhanger (U) [f1] (BRIGHT).nes"
+        },
+        {
+            "title": "Clu Clu Land (u) (e-reader) [!]",
+            "file": "Clu Clu Land (U) (e-Reader) [!].nes"
+        },
+        {
+            "title": "Cobra Command (u) [!]",
+            "file": "Cobra Command (U) [!].nes"
+        },
+        {
+            "title": "Cobra Triangle (u) [!]",
+            "file": "Cobra Triangle (U) [!].nes"
+        },
+        {
+            "title": "Code Name - Viper (u) [!]",
+            "file": "Code Name - Viper (U) [!].nes"
+        },
+        {
+            "title": "Color A Dinosaur (u) [!]",
+            "file": "Color a Dinosaur (U) [!].nes"
+        },
+        {
+            "title": "Commando (u) [!]",
+            "file": "Commando (U) [!].nes"
+        },
+        {
+            "title": "Conan (u) [!]",
+            "file": "Conan (U) [!].nes"
+        },
+        {
+            "title": "Conflict (u) [!]",
+            "file": "Conflict (U) [!].nes"
+        },
+        {
+            "title": "Conquest Of The Crystal Palace (u) [!]",
+            "file": "Conquest of the Crystal Palace (U) [!].nes"
+        },
+        {
+            "title": "Contra (u) (contra Anniversary Collection) [!]",
+            "file": "Contra (U) (Contra Anniversary Collection) [!].nes"
+        },
+        {
+            "title": "Contra (u) [!]",
+            "file": "Contra (U) [!].nes"
+        },
+        {
+            "title": "Contra Force (u) [!]",
+            "file": "Contra Force (U) [!].nes"
+        },
+        {
+            "title": "Contra Force (u) [h1]",
+            "file": "Contra Force (U) [h1].nes"
+        },
+        {
+            "title": "Cool World (u) [!]",
+            "file": "Cool World (U) [!].nes"
+        },
+        {
+            "title": "Cowboy Kid (u) [!]",
+            "file": "Cowboy Kid (U) [!].nes"
+        },
+        {
+            "title": "Crackout (u) (proto) [!]",
+            "file": "Crackout (U) (Proto) [!].nes"
+        },
+        {
+            "title": "Crash 'n' The Boys - Street Challenge (u) [!]",
+            "file": "Crash 'n' the Boys - Street Challenge (U) [!].nes"
+        },
+        {
+            "title": "Crazy Land (u) (proto) [!]",
+            "file": "Crazy Land (U) (Proto) [!].nes"
+        },
+        {
+            "title": "Crossfire (u) (proto) [!]",
+            "file": "CrossFire (U) (Proto) [!].nes"
+        },
+        {
+            "title": "Crystalis (u) [!]",
+            "file": "Crystalis (U) [!].nes"
+        },
+        {
+            "title": "Cyber Stadium Series - Base Wars (u) [!]",
+            "file": "Cyber Stadium Series - Base Wars (U) [!].nes"
+        },
+        {
+            "title": "Cyberball (u) [!]",
+            "file": "Cyberball (U) [!].nes"
+        },
+        {
+            "title": "Cybernoid - The Fighting Machine (u) [!]",
+            "file": "Cybernoid - The Fighting Machine (U) [!].nes"
+        },
+        {
+            "title": "Dance Aerobics (u) [!]",
+            "file": "Dance Aerobics (U) [!].nes"
+        },
+        {
+            "title": "Danny Sullivan's Indy Heat (u) [!]",
+            "file": "Danny Sullivan's Indy Heat (U) [!].nes"
+        },
+        {
+            "title": "Darkman (u) [!]",
+            "file": "Darkman (U) [!].nes"
+        },
+        {
+            "title": "Darkwing Duck (u) [!]",
+            "file": "Darkwing Duck (U) [!].nes"
+        },
+        {
+            "title": "Dash Galaxy In The Alien Asylum (u) [!]",
+            "file": "Dash Galaxy in the Alien Asylum (U) [!].nes"
+        },
+        {
+            "title": "David Crane's A Boy And His Blob - Trouble On Blobolonia (u) [!]",
+            "file": "David Crane's A Boy and His Blob - Trouble on Blobolonia (U) [!].nes"
+        },
+        {
+            "title": "Day Dreamin' Davey (u) [!]",
+            "file": "Day Dreamin' Davey (U) [!].nes"
+        },
+        {
+            "title": "Days Of Thunder (u) (proto) [!]",
+            "file": "Days of Thunder (U) (Proto) [!].nes"
+        },
+        {
+            "title": "Days Of Thunder (u) [!]",
+            "file": "Days of Thunder (U) [!].nes"
+        },
+        {
+            "title": "Deadly Towers (u) [!]",
+            "file": "Deadly Towers (U) [!].nes"
+        },
+        {
+            "title": "Defender Ii (u) [!]",
+            "file": "Defender II (U) [!].nes"
+        },
+        {
+            "title": "Defender Of The Crown (u) [!]",
+            "file": "Defender of the Crown (U) [!].nes"
+        },
+        {
+            "title": "Defenders Of Dynatron City (u) [!]",
+            "file": "Defenders of Dynatron City (U) [!].nes"
+        },
+        {
+            "title": "Deja Vu (u) [!]",
+            "file": "Deja Vu (U) [!].nes"
+        },
+        {
+            "title": "Demon Sword (u) [!]",
+            "file": "Demon Sword (U) [!].nes"
+        },
+        {
+            "title": "Desert Commander (u) [!]",
+            "file": "Desert Commander (U) [!].nes"
+        },
+        {
+            "title": "Destination Earthstar (u) [!]",
+            "file": "Destination Earthstar (U) [!].nes"
+        },
+        {
+            "title": "Destiny Of An Emperor (u) [!]",
+            "file": "Destiny of an Emperor (U) [!].nes"
+        },
+        {
+            "title": "Dick Tracy (u) [!]",
+            "file": "Dick Tracy (U) [!].nes"
+        },
+        {
+            "title": "Die Hard (u) [!]",
+            "file": "Die Hard (U) [!].nes"
+        },
+        {
+            "title": "Dig Dug Ii - Trouble In Paradise (u) [!]",
+            "file": "Dig Dug II - Trouble in Paradise (U) [!].nes"
+        },
+        {
+            "title": "Digger T. Rock - The Legend Of The Lost City (u) [!]",
+            "file": "Digger T. Rock - The Legend of the Lost City (U) [!].nes"
+        },
+        {
+            "title": "Dino Hockey (u) (proto-1) [!]",
+            "file": "Dino Hockey (U) (Proto-1) [!].nes"
+        },
+        {
+            "title": "Dino Hockey (u) (proto-2) [!]",
+            "file": "Dino Hockey (U) (Proto-2) [!].nes"
+        },
+        {
+            "title": "Dirty Harry (u) [!]",
+            "file": "Dirty Harry (U) [!].nes"
+        },
+        {
+            "title": "Donkey Kong (u) (v1.1) (e-reader) [!]",
+            "file": "Donkey Kong (U) (V1.1) (e-Reader) [!].nes"
+        },
+        {
+            "title": "Donkey Kong - Original Edition (u) (vc) [!]",
+            "file": "Donkey Kong - Original Edition (U) (VC) [!].nes"
+        },
+        {
+            "title": "Donkey Kong 3 (u) (e-reader) [!]",
+            "file": "Donkey Kong 3 (U) (e-Reader) [!].nes"
+        },
+        {
+            "title": "Donkey Kong Jr. (u) (v1.1) (e-reader) [!]",
+            "file": "Donkey Kong Jr. (U) (V1.1) (e-Reader) [!].nes"
+        },
+        {
+            "title": "Double Dare (u) [!]",
+            "file": "Double Dare (U) [!].nes"
+        },
+        {
+            "title": "Double Dragon (u) [!]",
+            "file": "Double Dragon (U) [!].nes"
+        },
+        {
+            "title": "Double Dragon Ii - The Revenge (u) (v1.0) [!]",
+            "file": "Double Dragon II - The Revenge (U) (V1.0) [!].nes"
+        },
+        {
+            "title": "Double Dragon Ii - The Revenge (u) (v1.1) [!]",
+            "file": "Double Dragon II - The Revenge (U) (V1.1) [!].nes"
+        },
+        {
+            "title": "Double Dragon Iii - The Sacred Stones (u) [!]",
+            "file": "Double Dragon III - The Sacred Stones (U) [!].nes"
+        },
+        {
+            "title": "Double Dribble (u) (v1.0) [!]",
+            "file": "Double Dribble (U) (V1.0) [!].nes"
+        },
+        {
+            "title": "Double Dribble (u) (v1.1) [!]",
+            "file": "Double Dribble (U) (V1.1) [!].nes"
+        },
+        {
+            "title": "Dr. Chaos (u) [!]",
+            "file": "Dr. Chaos (U) [!].nes"
+        },
+        {
+            "title": "Dr. Jekyll And Mr. Hyde (u) [!]",
+            "file": "Dr. Jekyll and Mr. Hyde (U) [!].nes"
+        },
+        {
+            "title": "Drac's Night Out (u) (proto) [!]",
+            "file": "Drac's Night Out (U) (Proto) [!].nes"
+        },
+        {
+            "title": "Dragon Fighter (u) [!]",
+            "file": "Dragon Fighter (U) [!].nes"
+        },
+        {
+            "title": "Dragon Power (u) [!]",
+            "file": "Dragon Power (U) [!].nes"
+        },
+        {
+            "title": "Dragon Spirit - The New Legend (u) [!]",
+            "file": "Dragon Spirit - The New Legend (U) [!].nes"
+        },
+        {
+            "title": "Dragon Warrior (u) (v1.0) [!]",
+            "file": "Dragon Warrior (U) (V1.0) [!].nes"
+        },
+        {
+            "title": "Dragon Warrior (u) (v1.1) [!]",
+            "file": "Dragon Warrior (U) (V1.1) [!].nes"
+        },
+        {
+            "title": "Dragon Warrior Ii (u) [!]",
+            "file": "Dragon Warrior II (U) [!].nes"
+        },
+        {
+            "title": "Dragon Warrior Iii (u) [!]",
+            "file": "Dragon Warrior III (U) [!].nes"
+        },
+        {
+            "title": "Dragon Warrior Iv (u) [!]",
+            "file": "Dragon Warrior IV (U) [!].nes"
+        },
+        {
+            "title": "Dragon Wars (u) (proto) [!]",
+            "file": "Dragon Wars (U) (Proto) [!].nes"
+        },
+        {
+            "title": "Dragon's Lair (u) [!]",
+            "file": "Dragon's Lair (U) [!].nes"
+        },
+        {
+            "title": "Dreamworld Pogie (u) (proto-1993.10.19) [!]",
+            "file": "Dreamworld Pogie (U) (Proto-1993.10.19) [!].nes"
+        },
+        {
+            "title": "Ducktales (u) [!]",
+            "file": "DuckTales (U) [!].nes"
+        },
+        {
+            "title": "Ducktales (u) [hack Angrylion (06.11.2008)] (pogov1)",
+            "file": "DuckTales (U) [Hack angrylion (06.11.2008)] (POGOv1).nes"
+        },
+        {
+            "title": "Ducktales (u) [hack Angrylion (24.12.2009)] (pogov2)",
+            "file": "DuckTales (U) [Hack angrylion (24.12.2009)] (POGOv2).nes"
+        },
+        {
+            "title": "Ducktales (u) [hack Evgeny (19.11.2010)] (music,pogov2)",
+            "file": "DuckTales (U) [Hack Evgeny (19.11.2010)] (MUSIC,POGOv2).nes"
+        },
+        {
+            "title": "Ducktales (u) [hack1.1 Drag (11.05.2011)] (pogo)",
+            "file": "DuckTales (U) [Hack1.1 Drag (11.05.2011)] (POGO).nes"
+        },
+        {
+            "title": "Ducktales 2 (u) [!]",
+            "file": "DuckTales 2 (U) [!].nes"
+        },
+        {
+            "title": "Dungeon Magic - Sword Of The Elements (u) [!]",
+            "file": "Dungeon Magic - Sword of the Elements (U) [!].nes"
+        },
+        {
+            "title": "Dusty Diamond's All-star Softball (u) [!]",
+            "file": "Dusty Diamond's All-Star Softball (U) [!].nes"
+        },
+        {
+            "title": "Dynowarz - The Destruction Of Spondylus (u) [!]",
+            "file": "Dynowarz - The Destruction of Spondylus (U) [!].nes"
+        },
+        {
+            "title": "Earthbound (u) (proto) [!]",
+            "file": "Earthbound (U) (Proto) [!].nes"
+        },
+        {
+            "title": "Earthbound (u) (proto) [h1]",
+            "file": "Earthbound (U) (Proto) [h1].nes"
+        },
+        {
+            "title": "Elevator Action (u) (vc) [!]",
+            "file": "Elevator Action (U) (VC) [!].nes"
+        },
+        {
+            "title": "Elevator Action (u) [!]",
+            "file": "Elevator Action (U) [!].nes"
+        },
+        {
+            "title": "Eliminator Boat Duel (u) [!]",
+            "file": "Eliminator Boat Duel (U) [!].nes"
+        },
+        {
+            "title": "Elite (u) (proto) [!]",
+            "file": "Elite (U) (Proto) [!].nes"
+        },
+        {
+            "title": "Empereur, L' (u) [!]",
+            "file": "Empereur, L' (U) [!].nes"
+        },
+        {
+            "title": "Excitebike (u) (e-reader) [!]",
+            "file": "Excitebike (U) (e-Reader) [!].nes"
+        },
+        {
+            "title": "Exploding Fist (u) (proto-1) [!]",
+            "file": "Exploding Fist (U) (Proto-1) [!].nes"
+        },
+        {
+            "title": "Exploding Fist (u) (proto-2) (1990.05.22) [!]",
+            "file": "Exploding Fist (U) (Proto-2) (1990.05.22) [!].nes"
+        },
+        {
+            "title": "F-117a Stealth Fighter (u) [!]",
+            "file": "F-117A Stealth Fighter (U) [!].nes"
+        },
+        {
+            "title": "F-15 Strike Eagle (u) [!]",
+            "file": "F-15 Strike Eagle (U) [!].nes"
+        },
+        {
+            "title": "Family Feud (u) [!]",
+            "file": "Family Feud (U) [!].nes"
+        },
+        {
+            "title": "Faria - A World Of Mystery & Danger! (u) [!]",
+            "file": "Faria - A World of Mystery & Danger! (U) [!].nes"
+        },
+        {
+            "title": "Faxanadu (u) (v1.0) [!]",
+            "file": "Faxanadu (U) (V1.0) [!].nes"
+        },
+        {
+            "title": "Faxanadu (u) (v1.1) [!]",
+            "file": "Faxanadu (U) (V1.1) [!].nes"
+        },
+        {
+            "title": "Felix The Cat (u) [!]",
+            "file": "Felix the Cat (U) [!].nes"
+        },
+        {
+            "title": "Felix The Cat (u) [f1] (bright)",
+            "file": "Felix the Cat (U) [f1] (BRIGHT).nes"
+        },
+        {
+            "title": "Ferrari Grand Prix Challenge (u) [!]",
+            "file": "Ferrari Grand Prix Challenge (U) [!].nes"
+        },
+        {
+            "title": "Fester's Quest (u) [!]",
+            "file": "Fester's Quest (U) [!].nes"
+        },
+        {
+            "title": "Fighting Simulator - World Champ (u) (proto) [!]",
+            "file": "Fighting Simulator - World Champ (U) (Proto) [!].nes"
+        },
+        {
+            "title": "Final Fantasy (u) (vc) [!]",
+            "file": "Final Fantasy (U) (VC) [!].nes"
+        },
+        {
+            "title": "Final Fantasy (u) [!]",
+            "file": "Final Fantasy (U) [!].nes"
+        },
+        {
+            "title": "Final Fantasy Ii (u) (proto) [!]",
+            "file": "Final Fantasy II (U) (Proto) [!].nes"
+        },
+        {
+            "title": "Fire 'n Ice (u) [!]",
+            "file": "Fire 'n Ice (U) [!].nes"
+        },
+        {
+            "title": "Fisher-price - Firehouse Rescue (u) [!]",
+            "file": "Fisher-Price - Firehouse Rescue (U) [!].nes"
+        },
+        {
+            "title": "Fisher-price - I Can Remember (u) [!]",
+            "file": "Fisher-Price - I Can Remember (U) [!].nes"
+        },
+        {
+            "title": "Fisher-price - Perfect Fit (u) [!]",
+            "file": "Fisher-Price - Perfect Fit (U) [!].nes"
+        },
+        {
+            "title": "Fist Of The North Star (u) [!]",
+            "file": "Fist of the North Star (U) [!].nes"
+        },
+        {
+            "title": "Flight Of The Intruder (u) [!]",
+            "file": "Flight of the Intruder (U) [!].nes"
+        },
+        {
+            "title": "Flintstones, The - The Rescue Of Dino & Hoppy (u) [!]",
+            "file": "Flintstones, The - The Rescue of Dino & Hoppy (U) [!].nes"
+        },
+        {
+            "title": "Flintstones, The - The Surprise At Dinosaur Peak! (u) [!]",
+            "file": "Flintstones, The - The Surprise at Dinosaur Peak! (U) [!].nes"
+        },
+        {
+            "title": "Flying Dragon - The Secret Scroll (u) [!]",
+            "file": "Flying Dragon - The Secret Scroll (U) [!].nes"
+        },
+        {
+            "title": "Flying Warriors (u) (vc) [!]",
+            "file": "Flying Warriors (U) (VC) [!].nes"
+        },
+        {
+            "title": "Flying Warriors (u) [!]",
+            "file": "Flying Warriors (U) [!].nes"
+        },
+        {
+            "title": "Formula One - Built To Win (u) [!]",
+            "file": "Formula One - Built to Win (U) [!].nes"
+        },
+        {
+            "title": "Frankenstein - The Monster Returns (u) [!]",
+            "file": "Frankenstein - The Monster Returns (U) [!].nes"
+        },
+        {
+            "title": "Free Fall (u) (proto) [!]",
+            "file": "Free Fall (U) (Proto) [!].nes"
+        },
+        {
+            "title": "Free Fall (u) (proto) [f1]",
+            "file": "Free Fall (U) (Proto) [f1].nes"
+        },
+        {
+            "title": "Freedom Force (u) [!]",
+            "file": "Freedom Force (U) [!].nes"
+        },
+        {
+            "title": "Friday The 13th (u) [!]",
+            "file": "Friday the 13th (U) [!].nes"
+        },
+        {
+            "title": "Fun House (u) [!]",
+            "file": "Fun House (U) [!].nes"
+        },
+        {
+            "title": "G.i. Joe - A Real American Hero (u) [!]",
+            "file": "G.I. Joe - A Real American Hero (U) [!].nes"
+        },
+        {
+            "title": "G.i. Joe - The Atlantis Factor (u) [!]",
+            "file": "G.I. Joe - The Atlantis Factor (U) [!].nes"
+        },
+        {
+            "title": "Galaga - Demons Of Death (u) [!]",
+            "file": "Galaga - Demons of Death (U) [!].nes"
+        },
+        {
+            "title": "Galaxy 5000 - Racing In The 51st Century (u) [!]",
+            "file": "Galaxy 5000 - Racing in the 51st Century (U) [!].nes"
+        },
+        {
+            "title": "Gargoyle's Quest Ii (u) [!]",
+            "file": "Gargoyle's Quest II (U) [!].nes"
+        },
+        {
+            "title": "Garry Kitchen's Battletank (u) [!]",
+            "file": "Garry Kitchen's Battletank (U) [!].nes"
+        },
+        {
+            "title": "Gauntlet (u) [!]",
+            "file": "Gauntlet (U) [!].nes"
+        },
+        {
+            "title": "Gauntlet Ii (u) [!]",
+            "file": "Gauntlet II (U) [!].nes"
+        },
+        {
+            "title": "Gemfire (u) [!]",
+            "file": "Gemfire (U) [!].nes"
+        },
+        {
+            "title": "Genghis Khan (u) [!]",
+            "file": "Genghis Khan (U) [!].nes"
+        },
+        {
+            "title": "George Foreman's Ko Boxing (u) [!]",
+            "file": "George Foreman's KO Boxing (U) [!].nes"
+        },
+        {
+            "title": "Ghost Lion (u) [!]",
+            "file": "Ghost Lion (U) [!].nes"
+        },
+        {
+            "title": "Ghostbusters (u) [!]",
+            "file": "Ghostbusters (U) [!].nes"
+        },
+        {
+            "title": "Ghostbusters Ii (u) [!]",
+            "file": "Ghostbusters II (U) [!].nes"
+        },
+        {
+            "title": "Ghosts'n Goblins (u) [!]",
+            "file": "Ghosts'n Goblins (U) [!].nes"
+        },
+        {
+            "title": "Ghoul School (u) [!]",
+            "file": "Ghoul School (U) [!].nes"
+        },
+        {
+            "title": "Goal! (u) [!]",
+            "file": "Goal! (U) [!].nes"
+        },
+        {
+            "title": "Goal! Two (u) [!]",
+            "file": "Goal! Two (U) [!].nes"
+        },
+        {
+            "title": "Godzilla - Monster Of Monsters! (u) [!]",
+            "file": "Godzilla - Monster of Monsters! (U) [!].nes"
+        },
+        {
+            "title": "Godzilla 2 - War Of The Monsters (u) [!]",
+            "file": "Godzilla 2 - War of the Monsters (U) [!].nes"
+        },
+        {
+            "title": "Golf (u) (e-reader) [!]",
+            "file": "Golf (U) (e-Reader) [!].nes"
+        },
+        {
+            "title": "Golf (u) [!]",
+            "file": "Golf (U) [!].nes"
+        },
+        {
+            "title": "Golf Grand Slam (u) [!]",
+            "file": "Golf Grand Slam (U) [!].nes"
+        },
+        {
+            "title": "Golgo 13 - Top Secret Episode (u) [!]",
+            "file": "Golgo 13 - Top Secret Episode (U) [!].nes"
+        },
+        {
+            "title": "Goonies Ii, The (u) [!]",
+            "file": "Goonies II, The (U) [!].nes"
+        },
+        {
+            "title": "Goonies Ii, The (u) [f1] (sram)",
+            "file": "Goonies II, The (U) [f1] (SRAM).nes"
+        },
+        {
+            "title": "Gotcha! - The Sport! (u) [!]",
+            "file": "Gotcha! - The Sport! (U) [!].nes"
+        },
+        {
+            "title": "Gradius (u) [!]",
+            "file": "Gradius (U) [!].nes"
+        },
+        {
+            "title": "Great Waldo Search, The (u) [!]",
+            "file": "Great Waldo Search, The (U) [!].nes"
+        },
+        {
+            "title": "Greg Norman's Golf Power (u) [!]",
+            "file": "Greg Norman's Golf Power (U) [!].nes"
+        },
+        {
+            "title": "Gremlins 2 - The New Batch (u) [!]",
+            "file": "Gremlins 2 - The New Batch (U) [!].nes"
+        },
+        {
+            "title": "Guardian Legend, The (u) [!]",
+            "file": "Guardian Legend, The (U) [!].nes"
+        },
+        {
+            "title": "Guardian Legend, The (u) [f1] (sram)",
+            "file": "Guardian Legend, The (U) [f1] (SRAM).nes"
+        },
+        {
+            "title": "Guerrilla War (u) [!]",
+            "file": "Guerrilla War (U) [!].nes"
+        },
+        {
+            "title": "Gun Nac (u) [!]",
+            "file": "Gun Nac (U) [!].nes"
+        },
+        {
+            "title": "Gun.smoke (u) [!]",
+            "file": "Gun.Smoke (U) [!].nes"
+        },
+        {
+            "title": "Gyruss (u) [!]",
+            "file": "Gyruss (U) [!].nes"
+        },
+        {
+            "title": "Happily Ever After Starring Snow White (u) (proto) [!]",
+            "file": "Happily Ever After Starring Snow White (U) (Proto) [!].nes"
+        },
+        {
+            "title": "Harlem Globetrotters (u) [!]",
+            "file": "Harlem Globetrotters (U) [!].nes"
+        },
+        {
+            "title": "Hatris (u) [!]",
+            "file": "Hatris (U) [!].nes"
+        },
+        {
+            "title": "Heavy Barrel (u) [!]",
+            "file": "Heavy Barrel (U) [!].nes"
+        },
+        {
+            "title": "Heavy Shreddin' (u) [!]",
+            "file": "Heavy Shreddin' (U) [!].nes"
+        },
+        {
+            "title": "Heroquest (u) (proto) [!]",
+            "file": "HeroQuest (U) (Proto) [!].nes"
+        },
+        {
+            "title": "High Speed (u) [!]",
+            "file": "High Speed (U) [!].nes"
+        },
+        {
+            "title": "Hit The Ice (u) (proto-1) [!]",
+            "file": "Hit the Ice (U) (Proto-1) [!].nes"
+        },
+        {
+            "title": "Hit The Ice (u) (proto-2) [!]",
+            "file": "Hit the Ice (U) (Proto-2) [!].nes"
+        },
+        {
+            "title": "Hollywood Squares (u) [!]",
+            "file": "Hollywood Squares (U) [!].nes"
+        },
+        {
+            "title": "Home Alone (u) (v1.0) [!]",
+            "file": "Home Alone (U) (V1.0) [!].nes"
+        },
+        {
+            "title": "Home Alone (u) (v1.1) [!]",
+            "file": "Home Alone (U) (V1.1) [!].nes"
+        },
+        {
+            "title": "Home Alone 2 - Lost In New York (u) [!]",
+            "file": "Home Alone 2 - Lost in New York (U) [!].nes"
+        },
+        {
+            "title": "Hook (u) [!]",
+            "file": "Hook (U) [!].nes"
+        },
+        {
+            "title": "Hoops (u) [!]",
+            "file": "Hoops (U) [!].nes"
+        },
+        {
+            "title": "Hoppin' Mad (u) (proto) [!]",
+            "file": "Hoppin' Mad (U) (Proto) [!].nes"
+        },
+        {
+            "title": "Hudson Hawk (u) [!]",
+            "file": "Hudson Hawk (U) [!].nes"
+        },
+        {
+            "title": "Hunt For Red October (u) (v1.0) [!]",
+            "file": "Hunt for Red October (U) (V1.0) [!].nes"
+        },
+        {
+            "title": "Hunt For Red October (u) (v1.1) [!]",
+            "file": "Hunt for Red October (U) (V1.1) [!].nes"
+        },
+        {
+            "title": "Hydlide (u) [!]",
+            "file": "Hydlide (U) [!].nes"
+        },
+        {
+            "title": "Ice Climber (u) (e-reader) [!]",
+            "file": "Ice Climber (U) (e-Reader) [!].nes"
+        },
+        {
+            "title": "Ice Hockey (u) [!]",
+            "file": "Ice Hockey (U) [!].nes"
+        },
+        {
+            "title": "Ikari Iii - The Rescue (u) [!]",
+            "file": "Ikari III - The Rescue (U) [!].nes"
+        },
+        {
+            "title": "Ikari Warriors (u) (v1.0) [!]",
+            "file": "Ikari Warriors (U) (V1.0) [!].nes"
+        },
+        {
+            "title": "Ikari Warriors (u) (v1.1) [!]",
+            "file": "Ikari Warriors (U) (V1.1) [!].nes"
+        },
+        {
+            "title": "Ikari Warriors Ii - Victory Road (u) [!]",
+            "file": "Ikari Warriors II - Victory Road (U) [!].nes"
+        },
+        {
+            "title": "Image Fight (u) [!]",
+            "file": "Image Fight (U) [!].nes"
+        },
+        {
+            "title": "Immortal, The (u) [!]",
+            "file": "Immortal, The (U) [!].nes"
+        },
+        {
+            "title": "Incredible Crash Dummies, The (u) [!]",
+            "file": "Incredible Crash Dummies, The (U) [!].nes"
+        },
+        {
+            "title": "Indiana Jones And The Last Crusade (u) (taito) [!]",
+            "file": "Indiana Jones and the Last Crusade (U) (Taito) [!].nes"
+        },
+        {
+            "title": "Indiana Jones And The Last Crusade (u) (ubisoft) [!]",
+            "file": "Indiana Jones and the Last Crusade (U) (Ubisoft) [!].nes"
+        },
+        {
+            "title": "Indiana Jones And The Temple Of Doom (u) (v1.0) [!]",
+            "file": "Indiana Jones and the Temple of Doom (U) (V1.0) [!].nes"
+        },
+        {
+            "title": "Indiana Jones And The Temple Of Doom (u) (v1.1) [!]",
+            "file": "Indiana Jones and the Temple of Doom (U) (V1.1) [!].nes"
+        },
+        {
+            "title": "Infiltrator (u) [!]",
+            "file": "Infiltrator (U) [!].nes"
+        },
+        {
+            "title": "Iron Tank - The Invasion Of Normandy (u) [!]",
+            "file": "Iron Tank - The Invasion of Normandy (U) [!].nes"
+        },
+        {
+            "title": "Ironsword - Wizards & Warriors Ii (u) [!]",
+            "file": "IronSword - Wizards & Warriors II (U) [!].nes"
+        },
+        {
+            "title": "Isolated Warrior (u) [!]",
+            "file": "Isolated Warrior (U) [!].nes"
+        },
+        {
+            "title": "Ivan 'ironman' Stewart's Super Off Road (u) [!]",
+            "file": "Ivan 'Ironman' Stewart's Super Off Road (U) [!].nes"
+        },
+        {
+            "title": "Jack Nicklaus' Greatest 18 Holes Of Major Championship Golf (u) [!]",
+            "file": "Jack Nicklaus' Greatest 18 Holes of Major Championship Golf (U) [!].nes"
+        },
+        {
+            "title": "Jackal (u) [!]",
+            "file": "Jackal (U) [!].nes"
+        },
+        {
+            "title": "Jackie Chan's Action Kung Fu (u) [!]",
+            "file": "Jackie Chan's Action Kung Fu (U) [!].nes"
+        },
+        {
+            "title": "James Bond Jr (u) [!]",
+            "file": "James Bond Jr (U) [!].nes"
+        },
+        {
+            "title": "James Bond Jr (u) [f1] (bright)",
+            "file": "James Bond Jr (U) [f1] (BRIGHT).nes"
+        },
+        {
+            "title": "Jaws (u) [!]",
+            "file": "Jaws (U) [!].nes"
+        },
+        {
+            "title": "Jeopardy! (u) (v1.0) [!]",
+            "file": "Jeopardy! (U) (V1.0) [!].nes"
+        },
+        {
+            "title": "Jeopardy! (u) (v1.1) [!]",
+            "file": "Jeopardy! (U) (V1.1) [!].nes"
+        },
+        {
+            "title": "Jeopardy! 25th Anniversary Edition (u) [!]",
+            "file": "Jeopardy! 25th Anniversary Edition (U) [!].nes"
+        },
+        {
+            "title": "Jeopardy! Junior Edition (u) [!]",
+            "file": "Jeopardy! Junior Edition (U) [!].nes"
+        },
+        {
+            "title": "Jetsons, The - Cogswell's Caper (u) [!]",
+            "file": "Jetsons, The - Cogswell's Caper (U) [!].nes"
+        },
+        {
+            "title": "Jimmy Connors Tennis (u) [!]",
+            "file": "Jimmy Connors Tennis (U) [!].nes"
+        },
+        {
+            "title": "Joe & Mac (u) [!]",
+            "file": "Joe & Mac (U) [!].nes"
+        },
+        {
+            "title": "John Elway's Quarterback (u) [!]",
+            "file": "John Elway's Quarterback (U) [!].nes"
+        },
+        {
+            "title": "Jordan Vs Bird - One On One (u) [!]",
+            "file": "Jordan vs Bird - One on One (U) [!].nes"
+        },
+        {
+            "title": "Journey To Silius (u) [!]",
+            "file": "Journey to Silius (U) [!].nes"
+        },
+        {
+            "title": "Joust (u) [!]",
+            "file": "Joust (U) [!].nes"
+        },
+        {
+            "title": "Jungle Book, The (u) (disney Classic Games) [!]",
+            "file": "Jungle Book, The (U) (Disney Classic Games) [!].nes"
+        },
+        {
+            "title": "Jungle Book, The (u) [!]",
+            "file": "Jungle Book, The (U) [!].nes"
+        },
+        {
+            "title": "Jungle Book, The (u) [f1] (bright)",
+            "file": "Jungle Book, The (U) [f1] (BRIGHT).nes"
+        },
+        {
+            "title": "Jungle Book, The (u) [f2] (bright)",
+            "file": "Jungle Book, The (U) [f2] (BRIGHT).nes"
+        },
+        {
+            "title": "Jurassic Park (u) [!]",
+            "file": "Jurassic Park (U) [!].nes"
+        },
+        {
+            "title": "Kabuki - Quantum Fighter (u) [!]",
+            "file": "Kabuki - Quantum Fighter (U) [!].nes"
+        },
+        {
+            "title": "Karate Champ (u) (v1.0) [!]",
+            "file": "Karate Champ (U) (V1.0) [!].nes"
+        },
+        {
+            "title": "Karate Champ (u) (v1.1) [!]",
+            "file": "Karate Champ (U) (V1.1) [!].nes"
+        },
+        {
+            "title": "Karate Kid, The (u) [!]",
+            "file": "Karate Kid, The (U) [!].nes"
+        },
+        {
+            "title": "Karnov (u) [!]",
+            "file": "Karnov (U) [!].nes"
+        },
+        {
+            "title": "Kickle Cubicle (u) [!]",
+            "file": "Kickle Cubicle (U) [!].nes"
+        },
+        {
+            "title": "Kickmaster (u) [!]",
+            "file": "KickMaster (U) [!].nes"
+        },
+        {
+            "title": "Kid Klown In Night Mayor World (u) [!]",
+            "file": "Kid Klown in Night Mayor World (U) [!].nes"
+        },
+        {
+            "title": "Kid Kool And The Quest For The Seven Wonder Herbs (u) [!]",
+            "file": "Kid Kool and the Quest for the Seven Wonder Herbs (U) [!].nes"
+        },
+        {
+            "title": "Kid Niki - Radical Ninja (u) (v1.0) [!]",
+            "file": "Kid Niki - Radical Ninja (U) (V1.0) [!].nes"
+        },
+        {
+            "title": "Kid Niki - Radical Ninja (u) (v1.1) [!]",
+            "file": "Kid Niki - Radical Ninja (U) (V1.1) [!].nes"
+        },
+        {
+            "title": "King's Knight (u) (vc) [!]",
+            "file": "King's Knight (U) (VC) [!].nes"
+        },
+        {
+            "title": "King's Knight (u) [!]",
+            "file": "King's Knight (U) [!].nes"
+        },
+        {
+            "title": "King's Quest V (u) [!]",
+            "file": "King's Quest V (U) [!].nes"
+        },
+        {
+            "title": "Kings Of The Beach - Professional Beach Volleyball (u) [!]",
+            "file": "Kings of the Beach - Professional Beach Volleyball (U) [!].nes"
+        },
+        {
+            "title": "Kirby's Adventure (u) (v1.0) [!]",
+            "file": "Kirby's Adventure (U) (V1.0) [!].nes"
+        },
+        {
+            "title": "Kirby's Adventure (u) (v1.1) [!]",
+            "file": "Kirby's Adventure (U) (V1.1) [!].nes"
+        },
+        {
+            "title": "Kiwi Kraze - A Bird-brained Adventure! (u) [!]",
+            "file": "Kiwi Kraze - A Bird-Brained Adventure! (U) [!].nes"
+        },
+        {
+            "title": "Klashball (u) [!]",
+            "file": "KlashBall (U) [!].nes"
+        },
+        {
+            "title": "Knight Rider (u) [!]",
+            "file": "Knight Rider (U) [!].nes"
+        },
+        {
+            "title": "Krion Conquest, The (u) [!]",
+            "file": "Krion Conquest, The (U) [!].nes"
+        },
+        {
+            "title": "Krusty's Fun House (u) [!]",
+            "file": "Krusty's Fun House (U) [!].nes"
+        },
+        {
+            "title": "Kung-fu Heroes (u) [!]",
+            "file": "Kung-Fu Heroes (U) [!].nes"
+        },
+        {
+            "title": "Laser Invasion (u) [!]",
+            "file": "Laser Invasion (U) [!].nes"
+        },
+        {
+            "title": "Last Action Hero (u) [!]",
+            "file": "Last Action Hero (U) [!].nes"
+        },
+        {
+            "title": "Last Ninja, The (u) [!]",
+            "file": "Last Ninja, The (U) [!].nes"
+        },
+        {
+            "title": "Last Starfighter, The (u) [!]",
+            "file": "Last Starfighter, The (U) [!].nes"
+        },
+        {
+            "title": "Lee Trevino's Fighting Golf (u) [!]",
+            "file": "Lee Trevino's Fighting Golf (U) [!].nes"
+        },
+        {
+            "title": "Legacy Of The Wizard (u) (namco Museum Archives Vol 2) [!]",
+            "file": "Legacy of the Wizard (U) (Namco Museum Archives Vol 2) [!].nes"
+        },
+        {
+            "title": "Legacy Of The Wizard (u) [!]",
+            "file": "Legacy of the Wizard (U) [!].nes"
+        },
+        {
+            "title": "Legend Of Kage, The (u) (vc) [!]",
+            "file": "Legend of Kage, The (U) (VC) [!].nes"
+        },
+        {
+            "title": "Legend Of Kage, The (u) [!]",
+            "file": "Legend of Kage, The (U) [!].nes"
+        },
+        {
+            "title": "Legend Of Kage, The (u) [o1]",
+            "file": "Legend of Kage, The (U) [o1].nes"
+        },
+        {
+            "title": "Legend Of Robin Hood, The (u) (proto) [!]",
+            "file": "Legend of Robin Hood, The (U) (Proto) [!].nes"
+        },
+        {
+            "title": "Legend Of Zelda, The (u) (v1.0) (gc) [!]",
+            "file": "Legend of Zelda, The (U) (V1.0) (GC) [!].nes"
+        },
+        {
+            "title": "Legend Of Zelda, The (u) (v1.0) [!]",
+            "file": "Legend of Zelda, The (U) (V1.0) [!].nes"
+        },
+        {
+            "title": "Legend Of Zelda, The (u) (v1.1) (gc) [!]",
+            "file": "Legend of Zelda, The (U) (V1.1) (GC) [!].nes"
+        },
+        {
+            "title": "Legend Of Zelda, The (u) (v1.1) (vc) [!]",
+            "file": "Legend of Zelda, The (U) (V1.1) (VC) [!].nes"
+        },
+        {
+            "title": "Legend Of Zelda, The (u) (v1.1) [!]",
+            "file": "Legend of Zelda, The (U) (V1.1) [!].nes"
+        },
+        {
+            "title": "Legendary Wings (u) [!]",
+            "file": "Legendary Wings (U) [!].nes"
+        },
+        {
+            "title": "Legends Of The Diamond - The Baseball Championship Game (u) [!]",
+            "file": "Legends of the Diamond - The Baseball Championship Game (U) [!].nes"
+        },
+        {
+            "title": "Lemmings (u) [!]",
+            "file": "Lemmings (U) [!].nes"
+        },
+        {
+            "title": "Lemmings (u) [h1] (color)",
+            "file": "Lemmings (U) [h1] (COLOR).nes"
+        },
+        {
+            "title": "Lethal Weapon (u) [!]",
+            "file": "Lethal Weapon (U) [!].nes"
+        },
+        {
+            "title": "Life Force (u) (v1.0) [!]",
+            "file": "Life Force (U) (V1.0) [!].nes"
+        },
+        {
+            "title": "Life Force (u) (v1.1) [!]",
+            "file": "Life Force (U) (V1.1) [!].nes"
+        },
+        {
+            "title": "Life Force (u) [p1]",
+            "file": "Life Force (U) [p1].nes"
+        },
+        {
+            "title": "Little League Baseball - Championship Series (u) [!]",
+            "file": "Little League Baseball - Championship Series (U) [!].nes"
+        },
+        {
+            "title": "Little Mermaid, The (u) [!]",
+            "file": "Little Mermaid, The (U) [!].nes"
+        },
+        {
+            "title": "Little Nemo - The Dream Master (u) [!]",
+            "file": "Little Nemo - The Dream Master (U) [!].nes"
+        },
+        {
+            "title": "Little Ninja Brothers (u) [!]",
+            "file": "Little Ninja Brothers (U) [!].nes"
+        },
+        {
+            "title": "Little Samson (u) [!]",
+            "file": "Little Samson (U) [!].nes"
+        },
+        {
+            "title": "Lode Runner (u) [!]",
+            "file": "Lode Runner (U) [!].nes"
+        },
+        {
+            "title": "Lone Ranger, The (u) [!]",
+            "file": "Lone Ranger, The (U) [!].nes"
+        },
+        {
+            "title": "Loopz (u) [!]",
+            "file": "Loopz (U) [!].nes"
+        },
+        {
+            "title": "Low G Man - The Low Gravity Man (u) [!]",
+            "file": "Low G Man - The Low Gravity Man (U) [!].nes"
+        },
+        {
+            "title": "Lunar Pool (u) [!]",
+            "file": "Lunar Pool (U) [!].nes"
+        },
+        {
+            "title": "M.c. Kids (u) [!]",
+            "file": "M.C. Kids (U) [!].nes"
+        },
+        {
+            "title": "M.u.l.e. (u) [!]",
+            "file": "M.U.L.E. (U) [!].nes"
+        },
+        {
+            "title": "M.u.s.c.l.e. - Tag Team Match (u) [!]",
+            "file": "M.U.S.C.L.E. - Tag Team Match (U) [!].nes"
+        },
+        {
+            "title": "M8 Game Selectable Working Product Display (u) [!]",
+            "file": "M8 Game Selectable Working Product Display (U) [!].nes"
+        },
+        {
+            "title": "Mad Max (u) [!]",
+            "file": "Mad Max (U) [!].nes"
+        },
+        {
+            "title": "Mafat Conspiracy, The (u) [!]",
+            "file": "Mafat Conspiracy, The (U) [!].nes"
+        },
+        {
+            "title": "Magic Darts (u) [!]",
+            "file": "Magic Darts (U) [!].nes"
+        },
+        {
+            "title": "Magic Johnson's Fast Break (u) [!]",
+            "file": "Magic Johnson's Fast Break (U) [!].nes"
+        },
+        {
+            "title": "Magic Of Scheherazade, The (u) [!]",
+            "file": "Magic of Scheherazade, The (U) [!].nes"
+        },
+        {
+            "title": "Magician (u) [!]",
+            "file": "Magician (U) [!].nes"
+        },
+        {
+            "title": "Magmax (u) [!]",
+            "file": "Magmax (U) [!].nes"
+        },
+        {
+            "title": "Major League Baseball (u) (v1.0) [!]",
+            "file": "Major League Baseball (U) (V1.0) [!].nes"
+        },
+        {
+            "title": "Major League Baseball (u) (v1.1) [!]",
+            "file": "Major League Baseball (U) (V1.1) [!].nes"
+        },
+        {
+            "title": "Makai Island (u) (proto) [!]",
+            "file": "Makai Island (U) (Proto) [!].nes"
+        },
+        {
+            "title": "Maniac Mansion (u) [!]",
+            "file": "Maniac Mansion (U) [!].nes"
+        },
+        {
+            "title": "Mappy-land (u) (vc) [!]",
+            "file": "Mappy-Land (U) (VC) [!].nes"
+        },
+        {
+            "title": "Mappy-land (u) [!]",
+            "file": "Mappy-Land (U) [!].nes"
+        },
+        {
+            "title": "Marble Madness (u) [!]",
+            "file": "Marble Madness (U) [!].nes"
+        },
+        {
+            "title": "Mario Bros. (u) (e-reader) [!]",
+            "file": "Mario Bros. (U) (e-Reader) [!].nes"
+        },
+        {
+            "title": "Mario Is Missing! (u) [!]",
+            "file": "Mario is Missing! (U) [!].nes"
+        },
+        {
+            "title": "Mario's Time Machine (u) [!]",
+            "file": "Mario's Time Machine (U) [!].nes"
+        },
+        {
+            "title": "Mechanized Attack (u) [!]",
+            "file": "Mechanized Attack (U) [!].nes"
+        },
+        {
+            "title": "Mega Man (u) (capcom Town) [!]",
+            "file": "Mega Man (U) (Capcom Town) [!].nes"
+        },
+        {
+            "title": "Mega Man (u) (mega Man Legacy Collection) [!]",
+            "file": "Mega Man (U) (Mega Man Legacy Collection) [!].nes"
+        },
+        {
+            "title": "Mega Man (u) (vc) [!]",
+            "file": "Mega Man (U) (VC) [!].nes"
+        },
+        {
+            "title": "Mega Man (u) [!]",
+            "file": "Mega Man (U) [!].nes"
+        },
+        {
+            "title": "Mega Man 2 (u) (capcom Town) [!]",
+            "file": "Mega Man 2 (U) (Capcom Town) [!].nes"
+        },
+        {
+            "title": "Mega Man 2 (u) (mega Man Legacy Collection) [!]",
+            "file": "Mega Man 2 (U) (Mega Man Legacy Collection) [!].nes"
+        },
+        {
+            "title": "Mega Man 2 (u) (vc) [!]",
+            "file": "Mega Man 2 (U) (VC) [!].nes"
+        },
+        {
+            "title": "Mega Man 2 (u) [!]",
+            "file": "Mega Man 2 (U) [!].nes"
+        },
+        {
+            "title": "Mega Man 3 (u) (mega Man Legacy Collection) [!]",
+            "file": "Mega Man 3 (U) (Mega Man Legacy Collection) [!].nes"
+        },
+        {
+            "title": "Mega Man 3 (u) (vc) [!]",
+            "file": "Mega Man 3 (U) (VC) [!].nes"
+        },
+        {
+            "title": "Mega Man 3 (u) [!]",
+            "file": "Mega Man 3 (U) [!].nes"
+        },
+        {
+            "title": "Mega Man 4 (u) (v1.0) (mega Man Legacy Collection) [!]",
+            "file": "Mega Man 4 (U) (V1.0) (Mega Man Legacy Collection) [!].nes"
+        },
+        {
+            "title": "Mega Man 4 (u) (v1.0) [!]",
+            "file": "Mega Man 4 (U) (V1.0) [!].nes"
+        },
+        {
+            "title": "Mega Man 4 (u) (v1.1) (vc) [!]",
+            "file": "Mega Man 4 (U) (V1.1) (VC) [!].nes"
+        },
+        {
+            "title": "Mega Man 4 (u) (v1.1) [!]",
+            "file": "Mega Man 4 (U) (V1.1) [!].nes"
+        },
+        {
+            "title": "Mega Man 5 (u) (mega Man Legacy Collection) [!]",
+            "file": "Mega Man 5 (U) (Mega Man Legacy Collection) [!].nes"
+        },
+        {
+            "title": "Mega Man 5 (u) (vc) [!]",
+            "file": "Mega Man 5 (U) (VC) [!].nes"
+        },
+        {
+            "title": "Mega Man 5 (u) [!]",
+            "file": "Mega Man 5 (U) [!].nes"
+        },
+        {
+            "title": "Mega Man 6 (u) (mega Man Legacy Collection) [!]",
+            "file": "Mega Man 6 (U) (Mega Man Legacy Collection) [!].nes"
+        },
+        {
+            "title": "Mega Man 6 (u) [!]",
+            "file": "Mega Man 6 (U) [!].nes"
+        },
+        {
+            "title": "Mendel Palace (u) (namco Museum Archives Vol 2) [!]",
+            "file": "Mendel Palace (U) (Namco Museum Archives Vol 2) [!].nes"
+        },
+        {
+            "title": "Mendel Palace (u) [!]",
+            "file": "Mendel Palace (U) [!].nes"
+        },
+        {
+            "title": "Metal Gear (u) [!]",
+            "file": "Metal Gear (U) [!].nes"
+        },
+        {
+            "title": "Metal Gear (u) [f1]",
+            "file": "Metal Gear (U) [f1].nes"
+        },
+        {
+            "title": "Metal Storm (u) [!]",
+            "file": "Metal Storm (U) [!].nes"
+        },
+        {
+            "title": "Metalmech - Man & Machine (u) [!]",
+            "file": "MetalMech - Man & Machine (U) [!].nes"
+        },
+        {
+            "title": "Metroid (u) (vc) [!]",
+            "file": "Metroid (U) (VC) [!].nes"
+        },
+        {
+            "title": "Metroid (u) [!]",
+            "file": "Metroid (U) [!].nes"
+        },
+        {
+            "title": "Michael Andretti's World Gp (u) [!]",
+            "file": "Michael Andretti's World GP (U) [!].nes"
+        },
+        {
+            "title": "Mick & Mack As The Global Gladiators (u) (proto-1993.05.28) [!]",
+            "file": "Mick & Mack as the Global Gladiators (U) (Proto-1993.05.28) [!].nes"
+        },
+        {
+            "title": "Mick & Mack As The Global Gladiators (u) (proto-1993.05.28) [a1][!]",
+            "file": "Mick & Mack as the Global Gladiators (U) (Proto-1993.05.28) [a1][!].nes"
+        },
+        {
+            "title": "Mick & Mack As The Global Gladiators (u) (proto-1993.06.16) [!]",
+            "file": "Mick & Mack as the Global Gladiators (U) (Proto-1993.06.16) [!].nes"
+        },
+        {
+            "title": "Mick & Mack As The Global Gladiators (u) (proto-1993.06.30) [!]",
+            "file": "Mick & Mack as the Global Gladiators (U) (Proto-1993.06.30) [!].nes"
+        },
+        {
+            "title": "Mick & Mack As The Global Gladiators (u) (proto-1993.07.09) [!]",
+            "file": "Mick & Mack as the Global Gladiators (U) (Proto-1993.07.09) [!].nes"
+        },
+        {
+            "title": "Mickey Mousecapade (u) [!]",
+            "file": "Mickey Mousecapade (U) [!].nes"
+        },
+        {
+            "title": "Mickey's Adventure In Numberland (u) [!]",
+            "file": "Mickey's Adventure in Numberland (U) [!].nes"
+        },
+        {
+            "title": "Mickey's Safari In Letterland (u) [!]",
+            "file": "Mickey's Safari in Letterland (U) [!].nes"
+        },
+        {
+            "title": "Might & Magic - Secret Of The Inner Sanctum (u) [!]",
+            "file": "Might & Magic - Secret of the Inner Sanctum (U) [!].nes"
+        },
+        {
+            "title": "Mighty Bomb Jack (u) [!]",
+            "file": "Mighty Bomb Jack (U) [!].nes"
+        },
+        {
+            "title": "Mighty Final Fight (u) (capcom Classics Mini Mix) [!]",
+            "file": "Mighty Final Fight (U) (Capcom Classics Mini Mix) [!].nes"
+        },
+        {
+            "title": "Mighty Final Fight (u) [!]",
+            "file": "Mighty Final Fight (U) [!].nes"
+        },
+        {
+            "title": "Millipede (u) [!]",
+            "file": "Millipede (U) [!].nes"
+        },
+        {
+            "title": "Milon's Secret Castle (u) (vc) [!]",
+            "file": "Milon's Secret Castle (U) (VC) [!].nes"
+        },
+        {
+            "title": "Milon's Secret Castle (u) [!]",
+            "file": "Milon's Secret Castle (U) [!].nes"
+        },
+        {
+            "title": "Miracle Piano Teaching System, The (u) [!]",
+            "file": "Miracle Piano Teaching System, The (U) [!].nes"
+        },
+        {
+            "title": "Mission - Impossible (u) [!]",
+            "file": "Mission - Impossible (U) [!].nes"
+        },
+        {
+            "title": "Monopoly (u) [!]",
+            "file": "Monopoly (U) [!].nes"
+        },
+        {
+            "title": "Monster In My Pocket (u) [!]",
+            "file": "Monster in My Pocket (U) [!].nes"
+        },
+        {
+            "title": "Monster Party (u) [!]",
+            "file": "Monster Party (U) [!].nes"
+        },
+        {
+            "title": "Monster Truck Rally (u) [!]",
+            "file": "Monster Truck Rally (U) [!].nes"
+        },
+        {
+            "title": "Motor City Patrol (u) [!]",
+            "file": "Motor City Patrol (U) [!].nes"
+        },
+        {
+            "title": "Mr. Gimmick (u) (proto) [!]",
+            "file": "Mr. Gimmick (U) (Proto) [!].nes"
+        },
+        {
+            "title": "Ms. Pac-man (u) (namco) [!]",
+            "file": "Ms. Pac-Man (U) (Namco) [!].nes"
+        },
+        {
+            "title": "Muppet Adventure - Chaos At The Carnival (u) [!]",
+            "file": "Muppet Adventure - Chaos at the Carnival (U) [!].nes"
+        },
+        {
+            "title": "Mutant Virus, The - Crisis In A Computer World (u) [!]",
+            "file": "Mutant Virus, The - Crisis in a Computer World (U) [!].nes"
+        },
+        {
+            "title": "Mystery Quest (u) [!]",
+            "file": "Mystery Quest (U) [!].nes"
+        },
+        {
+            "title": "Narc (u) [!]",
+            "file": "NARC (U) [!].nes"
+        },
+        {
+            "title": "Nes Open Tournament Golf (u) (vc) [!]",
+            "file": "NES Open Tournament Golf (U) (VC) [!].nes"
+        },
+        {
+            "title": "Nes Open Tournament Golf (u) [!]",
+            "file": "NES Open Tournament Golf (U) [!].nes"
+        },
+        {
+            "title": "Nes Play Action Football (u) (vc) [!]",
+            "file": "NES Play Action Football (U) (VC) [!].nes"
+        },
+        {
+            "title": "Nes Play Action Football (u) [!]",
+            "file": "NES Play Action Football (U) [!].nes"
+        },
+        {
+            "title": "New Ghostbusters Ii (u) (proto) [!]",
+            "file": "New Ghostbusters II (U) (Proto) [!].nes"
+        },
+        {
+            "title": "Nfl (u) [!]",
+            "file": "NFL (U) [!].nes"
+        },
+        {
+            "title": "Nigel Mansell's World Championship Racing (u) [!]",
+            "file": "Nigel Mansell's World Championship Racing (U) [!].nes"
+        },
+        {
+            "title": "Nightmare On Elm Street, A (u) [!]",
+            "file": "Nightmare on Elm Street, A (U) [!].nes"
+        },
+        {
+            "title": "Nightshade (u) [!]",
+            "file": "Nightshade (U) [!].nes"
+        },
+        {
+            "title": "Ninja Crusaders (u) [!]",
+            "file": "Ninja Crusaders (U) [!].nes"
+        },
+        {
+            "title": "Ninja Gaiden (u) [!]",
+            "file": "Ninja Gaiden (U) [!].nes"
+        },
+        {
+            "title": "Ninja Gaiden Ii - The Dark Sword Of Chaos (u) (sample-1990.01.18) [!]",
+            "file": "Ninja Gaiden II - The Dark Sword of Chaos (U) (Sample-1990.01.18) [!].nes"
+        },
+        {
+            "title": "Ninja Gaiden Ii - The Dark Sword Of Chaos (u) (vc) [!]",
+            "file": "Ninja Gaiden II - The Dark Sword of Chaos (U) (VC) [!].nes"
+        },
+        {
+            "title": "Ninja Gaiden Ii - The Dark Sword Of Chaos (u) [!]",
+            "file": "Ninja Gaiden II - The Dark Sword of Chaos (U) [!].nes"
+        },
+        {
+            "title": "Ninja Gaiden Iii - The Ancient Ship Of Doom (u) (wii U Vc) [!]",
+            "file": "Ninja Gaiden III - The Ancient Ship of Doom (U) (Wii U VC) [!].nes"
+        },
+        {
+            "title": "Ninja Gaiden Iii - The Ancient Ship Of Doom (u) (wii Vc) [!]",
+            "file": "Ninja Gaiden III - The Ancient Ship of Doom (U) (Wii VC) [!].nes"
+        },
+        {
+            "title": "Ninja Gaiden Iii - The Ancient Ship Of Doom (u) [!]",
+            "file": "Ninja Gaiden III - The Ancient Ship of Doom (U) [!].nes"
+        },
+        {
+            "title": "Ninja Kid (u) [!]",
+            "file": "Ninja Kid (U) [!].nes"
+        },
+        {
+            "title": "Nintendo Campus Challenge 1991 (u) [b1]",
+            "file": "Nintendo Campus Challenge 1991 (U) [b1].nes"
+        },
+        {
+            "title": "Nintendo Ntf2 System Cartridge (u) (v1.1) [!]",
+            "file": "Nintendo NTF2 System Cartridge (U) (v1.1) [!].nes"
+        },
+        {
+            "title": "Nintendo Ntf2 Test Cartridge (u) (v1.0)",
+            "file": "Nintendo NTF2 Test Cartridge (U) (v1.0).nes"
+        },
+        {
+            "title": "Nintendo Ntf2 Test Cartridge (u) (v1.1)",
+            "file": "Nintendo NTF2 Test Cartridge (U) (v1.1).nes"
+        },
+        {
+            "title": "Nintendo World Championships 1990 (u) [!]",
+            "file": "Nintendo World Championships 1990 (U) [!].nes"
+        },
+        {
+            "title": "Nintendo World Class Service - Control Deck Test Cartridge (u) [!]",
+            "file": "Nintendo World Class Service - Control Deck Test Cartridge (U) [!].nes"
+        },
+        {
+            "title": "Nintendo World Class Service - Joystick Test Cartridge (u)",
+            "file": "Nintendo World Class Service - Joystick Test Cartridge (U).nes"
+        },
+        {
+            "title": "Nintendo World Class Service - Port Test Cartridge (u)",
+            "file": "Nintendo World Class Service - Port Test Cartridge (U).nes"
+        },
+        {
+            "title": "Nintendo World Class Service - Power Pad Test Cartridge (u) [!]",
+            "file": "Nintendo World Class Service - Power Pad Test Cartridge (U) [!].nes"
+        },
+        {
+            "title": "Nintendo World Cup (u) (v1.0) [!]",
+            "file": "Nintendo World Cup (U) (V1.0) [!].nes"
+        },
+        {
+            "title": "Nintendo World Cup (u) (v1.1) [!]",
+            "file": "Nintendo World Cup (U) (V1.1) [!].nes"
+        },
+        {
+            "title": "Nobunaga's Ambition (u) [!]",
+            "file": "Nobunaga's Ambition (U) [!].nes"
+        },
+        {
+            "title": "Nobunaga's Ambition Ii (u) [!]",
+            "file": "Nobunaga's Ambition II (U) [!].nes"
+        },
+        {
+            "title": "North And South (u) [!]",
+            "file": "North and South (U) [!].nes"
+        },
+        {
+            "title": "Operation Wolf (u) [!]",
+            "file": "Operation Wolf (U) [!].nes"
+        },
+        {
+            "title": "Orb-3d (u) [!]",
+            "file": "Orb-3D (U) [!].nes"
+        },
+        {
+            "title": "Othello (u) (acclaim) [!]",
+            "file": "Othello (U) (Acclaim) [!].nes"
+        },
+        {
+            "title": "Overlord (u) [!]",
+            "file": "Overlord (U) [!].nes"
+        },
+        {
+            "title": "Pac-man (u) (namco) (vc) [!]",
+            "file": "Pac-Man (U) (Namco) (VC) [!].nes"
+        },
+        {
+            "title": "Pac-man (u) (namco) [!]",
+            "file": "Pac-Man (U) (Namco) [!].nes"
+        },
+        {
+            "title": "Pac-man (u) (tengen) [!]",
+            "file": "Pac-Man (U) (Tengen) [!].nes"
+        },
+        {
+            "title": "Palamedes (u) [!]",
+            "file": "Palamedes (U) [!].nes"
+        },
+        {
+            "title": "Panic Restaurant (u) [!]",
+            "file": "Panic Restaurant (U) [!].nes"
+        },
+        {
+            "title": "Paperboy (u) [!]",
+            "file": "Paperboy (U) [!].nes"
+        },
+        {
+            "title": "Paperboy 2 (u) [!]",
+            "file": "Paperboy 2 (U) [!].nes"
+        },
+        {
+            "title": "Peter Pan & The Pirates - The Revenge Of Captain Hook (u) [!]",
+            "file": "Peter Pan & the Pirates - The Revenge of Captain Hook (U) [!].nes"
+        },
+        {
+            "title": "Phantom Fighter (u) [!]",
+            "file": "Phantom Fighter (U) [!].nes"
+        },
+        {
+            "title": "Pictionary - Game Of Video Quick Draw (u) [!]",
+            "file": "Pictionary - Game of Video Quick Draw (U) [!].nes"
+        },
+        {
+            "title": "Pin Bot (u) [!]",
+            "file": "Pin Bot (U) [!].nes"
+        },
+        {
+            "title": "Pinball (u) (e-reader) [!]",
+            "file": "Pinball (U) (e-Reader) [!].nes"
+        },
+        {
+            "title": "Pinball Quest (u) [!]",
+            "file": "Pinball Quest (U) [!].nes"
+        },
+        {
+            "title": "Pipe Dream (u) [!]",
+            "file": "Pipe Dream (U) [!].nes"
+        },
+        {
+            "title": "Pirates! (u) [!]",
+            "file": "Pirates! (U) [!].nes"
+        },
+        {
+            "title": "Platoon (u) (v1.0) [!]",
+            "file": "Platoon (U) (V1.0) [!].nes"
+        },
+        {
+            "title": "Platoon (u) (v1.1) [!]",
+            "file": "Platoon (U) (V1.1) [!].nes"
+        },
+        {
+            "title": "Power Blade (u) [!]",
+            "file": "Power Blade (U) [!].nes"
+        },
+        {
+            "title": "Power Blade 2 (u) [!]",
+            "file": "Power Blade 2 (U) [!].nes"
+        },
+        {
+            "title": "Power Punch Ii (u) [!]",
+            "file": "Power Punch II (U) [!].nes"
+        },
+        {
+            "title": "Predator (u) [!]",
+            "file": "Predator (U) [!].nes"
+        },
+        {
+            "title": "Prince Of Persia (u) [!]",
+            "file": "Prince of Persia (U) [!].nes"
+        },
+        {
+            "title": "Princess Tomato In The Salad Kingdom (u) (vc) [!]",
+            "file": "Princess Tomato in the Salad Kingdom (U) (VC) [!].nes"
+        },
+        {
+            "title": "Princess Tomato In The Salad Kingdom (u) [!]",
+            "file": "Princess Tomato in the Salad Kingdom (U) [!].nes"
+        },
+        {
+            "title": "Prisoners Of War (u) [!]",
+            "file": "Prisoners of War (U) [!].nes"
+        },
+        {
+            "title": "Pro Sport Hockey (u) [!]",
+            "file": "Pro Sport Hockey (U) [!].nes"
+        },
+        {
+            "title": "Pro Wrestling (u) (v1.0) [!]",
+            "file": "Pro Wrestling (U) (V1.0) [!].nes"
+        },
+        {
+            "title": "Pro Wrestling (u) (v1.1) [!]",
+            "file": "Pro Wrestling (U) (V1.1) [!].nes"
+        },
+        {
+            "title": "Punch-out!! (u) (vc) [!]",
+            "file": "Punch-Out!! (U) (VC) [!].nes"
+        },
+        {
+            "title": "Punch-out!! (u) [!]",
+            "file": "Punch-Out!! (U) [!].nes"
+        },
+        {
+            "title": "Punisher, The (u) [!]",
+            "file": "Punisher, The (U) [!].nes"
+        },
+        {
+            "title": "Puss 'n Boots - Pero's Great Adventure (u) [!]",
+            "file": "Puss 'n Boots - Pero's Great Adventure (U) [!].nes"
+        },
+        {
+            "title": "Puzznic (u) [!]",
+            "file": "Puzznic (U) [!].nes"
+        },
+        {
+            "title": "Q-bert (u) [!]",
+            "file": "Q-bert (U) [!].nes"
+        },
+        {
+            "title": "Qix (u) [!]",
+            "file": "QIX (U) [!].nes"
+        },
+        {
+            "title": "Quarter Back Scramble (u) (proto) [!]",
+            "file": "Quarter Back Scramble (U) (Proto) [!].nes"
+        },
+        {
+            "title": "R.b.i. Baseball (u) [!]",
+            "file": "R.B.I. Baseball (U) [!].nes"
+        },
+        {
+            "title": "R.c. Pro-am (u) (v1.0) [!]",
+            "file": "R.C. Pro-Am (U) (V1.0) [!].nes"
+        },
+        {
+            "title": "R.c. Pro-am (u) (v1.1) [!]",
+            "file": "R.C. Pro-Am (U) (V1.1) [!].nes"
+        },
+        {
+            "title": "R.c. Pro-am Ii (u) [!]",
+            "file": "R.C. Pro-Am II (U) [!].nes"
+        },
+        {
+            "title": "Racket Attack (u) [!]",
+            "file": "Racket Attack (U) [!].nes"
+        },
+        {
+            "title": "Rad Racer (u) [!]",
+            "file": "Rad Racer (U) [!].nes"
+        },
+        {
+            "title": "Rad Racer Ii (u) [!]",
+            "file": "Rad Racer II (U) [!].nes"
+        },
+        {
+            "title": "Raid On Bungeling Bay (u) [!]",
+            "file": "Raid on Bungeling Bay (U) [!].nes"
+        },
+        {
+            "title": "Rainbow Islands (u) [!]",
+            "file": "Rainbow Islands (U) [!].nes"
+        },
+        {
+            "title": "Rally Bike (u) [!]",
+            "file": "Rally Bike (U) [!].nes"
+        },
+        {
+            "title": "Rambo (u) (v1.0) [!]",
+            "file": "Rambo (U) (V1.0) [!].nes"
+        },
+        {
+            "title": "Rambo (u) (v1.1) [!]",
+            "file": "Rambo (U) (V1.1) [!].nes"
+        },
+        {
+            "title": "Rampage (u) [!]",
+            "file": "Rampage (U) [!].nes"
+        },
+        {
+            "title": "Rampart (u) [!]",
+            "file": "Rampart (U) [!].nes"
+        },
+        {
+            "title": "Remote Control (u) [!]",
+            "file": "Remote Control (U) [!].nes"
+        },
+        {
+            "title": "Ren & Stimpy Show, The - Buckeroo$! (u) [!]",
+            "file": "Ren & Stimpy Show, The - Buckeroo$! (U) [!].nes"
+        },
+        {
+            "title": "Renegade (u) (vc) [!]",
+            "file": "Renegade (U) (VC) [!].nes"
+        },
+        {
+            "title": "Renegade (u) [!]",
+            "file": "Renegade (U) [!].nes"
+        },
+        {
+            "title": "Rescue - The Embassy Mission (u) [!]",
+            "file": "Rescue - The Embassy Mission (U) [!].nes"
+        },
+        {
+            "title": "Ring King (u) [!]",
+            "file": "Ring King (U) [!].nes"
+        },
+        {
+            "title": "River City Ransom (u) [!]",
+            "file": "River City Ransom (U) [!].nes"
+        },
+        {
+            "title": "Roadblasters (u) [!]",
+            "file": "RoadBlasters (U) [!].nes"
+        },
+        {
+            "title": "Robin Hood - Prince Of Thieves (u) (v1.0) [!]",
+            "file": "Robin Hood - Prince of Thieves (U) (V1.0) [!].nes"
+        },
+        {
+            "title": "Robin Hood - Prince Of Thieves (u) (v1.1) [!]",
+            "file": "Robin Hood - Prince of Thieves (U) (V1.1) [!].nes"
+        },
+        {
+            "title": "Robo Warrior (u) [!]",
+            "file": "Robo Warrior (U) [!].nes"
+        },
+        {
+            "title": "Robocop (u) [!]",
+            "file": "RoboCop (U) [!].nes"
+        },
+        {
+            "title": "Robocop 2 (u) (v1.0) [!]",
+            "file": "RoboCop 2 (U) (V1.0) [!].nes"
+        },
+        {
+            "title": "Robocop 2 (u) (v1.1) [!]",
+            "file": "RoboCop 2 (U) (V1.1) [!].nes"
+        },
+        {
+            "title": "Robocop 2 (u) (v1.1) [b1]",
+            "file": "RoboCop 2 (U) (V1.1) [b1].nes"
+        },
+        {
+            "title": "Robocop 3 (u) [!]",
+            "file": "RoboCop 3 (U) [!].nes"
+        },
+        {
+            "title": "Robocop 3 (u) [f1] (bugs)",
+            "file": "RoboCop 3 (U) [f1] (BUGS).nes"
+        },
+        {
+            "title": "Robocop Versus The Terminator (u) (proto)",
+            "file": "RoboCop versus The Terminator (U) (Proto).nes"
+        },
+        {
+            "title": "Rock 'n' Ball (u) [!]",
+            "file": "Rock 'n' Ball (U) [!].nes"
+        },
+        {
+            "title": "Rocket Ranger (u) [!]",
+            "file": "Rocket Ranger (U) [!].nes"
+        },
+        {
+            "title": "Rocketeer, The (u) [!]",
+            "file": "Rocketeer, The (U) [!].nes"
+        },
+        {
+            "title": "Rockin' Kats (u) [!]",
+            "file": "Rockin' Kats (U) [!].nes"
+        },
+        {
+            "title": "Roger Clemens' Mvp Baseball (u) (v1.0) [!]",
+            "file": "Roger Clemens' MVP Baseball (U) (V1.0) [!].nes"
+        },
+        {
+            "title": "Roger Clemens' Mvp Baseball (u) (v1.1)",
+            "file": "Roger Clemens' MVP Baseball (U) (V1.1).nes"
+        },
+        {
+            "title": "Rollerball (u) [!]",
+            "file": "Rollerball (U) [!].nes"
+        },
+        {
+            "title": "Rollerblade Racer (u) [!]",
+            "file": "Rollerblade Racer (U) [!].nes"
+        },
+        {
+            "title": "Rollergames (u) [!]",
+            "file": "Rollergames (U) [!].nes"
+        },
+        {
+            "title": "Romance Of The Three Kingdoms (u) [!]",
+            "file": "Romance of the Three Kingdoms (U) [!].nes"
+        },
+        {
+            "title": "Romance Of The Three Kingdoms Ii (u) [!]",
+            "file": "Romance of the Three Kingdoms II (U) [!].nes"
+        },
+        {
+            "title": "Roundball - 2-on-2 Challenge (u) [!]",
+            "file": "Roundball - 2-on-2 Challenge (U) [!].nes"
+        },
+        {
+            "title": "Rush'n Attack (u) [!]",
+            "file": "Rush'n Attack (U) [!].nes"
+        },
+        {
+            "title": "Rygar (u) (v1.0) [!]",
+            "file": "Rygar (U) (V1.0) [!].nes"
+        },
+        {
+            "title": "Rygar (u) (v1.1) [!]",
+            "file": "Rygar (U) (V1.1) [!].nes"
+        },
+        {
+            "title": "S.c.a.t. - Special Cybernetic Attack Team (u) [!]",
+            "file": "S.C.A.T. - Special Cybernetic Attack Team (U) [!].nes"
+        },
+        {
+            "title": "Scarabeus (u) (proto) [!]",
+            "file": "Scarabeus (U) (Proto) [!].nes"
+        },
+        {
+            "title": "Secret Ties (u) (proto) [!]",
+            "file": "Secret Ties (U) (Proto) [!].nes"
+        },
+        {
+            "title": "Section-z (u) [!]",
+            "file": "Section-Z (U) [!].nes"
+        },
+        {
+            "title": "Seicross (u) [!]",
+            "file": "Seicross (U) [!].nes"
+        },
+        {
+            "title": "Sesame Street - 123 (u) [!]",
+            "file": "Sesame Street - 123 (U) [!].nes"
+        },
+        {
+            "title": "Sesame Street - Abc & 123 (u) [!]",
+            "file": "Sesame Street - ABC & 123 (U) [!].nes"
+        },
+        {
+            "title": "Sesame Street - Abc (u) [!]",
+            "file": "Sesame Street - ABC (U) [!].nes"
+        },
+        {
+            "title": "Sesame Street - Big Bird's Hide & Speak (u) [!]",
+            "file": "Sesame Street - Big Bird's Hide & Speak (U) [!].nes"
+        },
+        {
+            "title": "Sesame Street - Countdown (u) [!]",
+            "file": "Sesame Street - Countdown (U) [!].nes"
+        },
+        {
+            "title": "Shadow Of The Ninja (u) (sample) [!]",
+            "file": "Shadow of the Ninja (U) (Sample) [!].nes"
+        },
+        {
+            "title": "Shadow Of The Ninja (u) [!]",
+            "file": "Shadow of the Ninja (U) [!].nes"
+        },
+        {
+            "title": "Shadowgate (u) [!]",
+            "file": "Shadowgate (U) [!].nes"
+        },
+        {
+            "title": "Shatterhand (u) [!]",
+            "file": "Shatterhand (U) [!].nes"
+        },
+        {
+            "title": "Shingen The Ruler (u) [!]",
+            "file": "Shingen the Ruler (U) [!].nes"
+        },
+        {
+            "title": "Shooting Range (u) [!]",
+            "file": "Shooting Range (U) [!].nes"
+        },
+        {
+            "title": "Short Order + Eggsplode! (u) [!]",
+            "file": "Short Order + Eggsplode! (U) [!].nes"
+        },
+        {
+            "title": "Side Pocket (u) [!]",
+            "file": "Side Pocket (U) [!].nes"
+        },
+        {
+            "title": "Silent Service (u) (v1.0) [!]",
+            "file": "Silent Service (U) (V1.0) [!].nes"
+        },
+        {
+            "title": "Silent Service (u) (v1.1) [!]",
+            "file": "Silent Service (U) (V1.1) [!].nes"
+        },
+        {
+            "title": "Silk Worm (u) (sample) [!]",
+            "file": "Silk Worm (U) (Sample) [!].nes"
+        },
+        {
+            "title": "Silk Worm (u) [!]",
+            "file": "Silk Worm (U) [!].nes"
+        },
+        {
+            "title": "Silver Surfer (u) [!]",
+            "file": "Silver Surfer (U) [!].nes"
+        },
+        {
+            "title": "Simcity (u) (proto) [!]",
+            "file": "SimCity (U) (Proto) [!].nes"
+        },
+        {
+            "title": "Simpsons, The - Bart Vs. The Space Mutants (u) (v1.0) [!]",
+            "file": "Simpsons, The - Bart vs. the Space Mutants (U) (V1.0) [!].nes"
+        },
+        {
+            "title": "Simpsons, The - Bart Vs. The Space Mutants (u) (v1.1) [!]",
+            "file": "Simpsons, The - Bart vs. the Space Mutants (U) (V1.1) [!].nes"
+        },
+        {
+            "title": "Simpsons, The - Bart Vs. The World (u) [!]",
+            "file": "Simpsons, The - Bart vs. the World (U) [!].nes"
+        },
+        {
+            "title": "Simpsons, The - Bartman Meets Radioactive Man (u) [!]",
+            "file": "Simpsons, The - Bartman Meets Radioactive Man (U) [!].nes"
+        },
+        {
+            "title": "Skate Or Die (u) [!]",
+            "file": "Skate or Die (U) [!].nes"
+        },
+        {
+            "title": "Skate Or Die 2 - The Search For Double Trouble (u) [!]",
+            "file": "Skate or Die 2 - The Search for Double Trouble (U) [!].nes"
+        },
+        {
+            "title": "Ski Or Die (u) [!]",
+            "file": "Ski or Die (U) [!].nes"
+        },
+        {
+            "title": "Sky Kid (u) [!]",
+            "file": "Sky Kid (U) [!].nes"
+        },
+        {
+            "title": "Sky Shark (u) [!]",
+            "file": "Sky Shark (U) [!].nes"
+        },
+        {
+            "title": "Sky Shark (u) [o1]",
+            "file": "Sky Shark (U) [o1].nes"
+        },
+        {
+            "title": "Slalom (u) [!]",
+            "file": "Slalom (U) [!].nes"
+        },
+        {
+            "title": "Smash T.v. (u) [!]",
+            "file": "Smash T.V. (U) [!].nes"
+        },
+        {
+            "title": "Snake Rattle N Roll (u) [!]",
+            "file": "Snake Rattle n Roll (U) [!].nes"
+        },
+        {
+            "title": "Snake's Revenge (u) [!]",
+            "file": "Snake's Revenge (U) [!].nes"
+        },
+        {
+            "title": "Snoopy's Silly Sports Spectacular! (u) [!]",
+            "file": "Snoopy's Silly Sports Spectacular! (U) [!].nes"
+        },
+        {
+            "title": "Snow Brothers (u) [!]",
+            "file": "Snow Brothers (U) [!].nes"
+        },
+        {
+            "title": "Solar Jetman - Hunt For The Golden Warpship (u) [!]",
+            "file": "Solar Jetman - Hunt for the Golden Warpship (U) [!].nes"
+        },
+        {
+            "title": "Solomon's Key (u) [!]",
+            "file": "Solomon's Key (U) [!].nes"
+        },
+        {
+            "title": "Solstice - The Quest For The Staff Of Demnos (u) [!]",
+            "file": "Solstice - The Quest for the Staff of Demnos (U) [!].nes"
+        },
+        {
+            "title": "Space Shuttle Project (u) [!]",
+            "file": "Space Shuttle Project (U) [!].nes"
+        },
+        {
+            "title": "Spelunker (u) [!]",
+            "file": "Spelunker (U) [!].nes"
+        },
+        {
+            "title": "Spider-man - Return Of The Sinister Six (u) [!]",
+            "file": "Spider-Man - Return of the Sinister Six (U) [!].nes"
+        },
+        {
+            "title": "Spot - The Video Game (u) [!]",
+            "file": "Spot - The Video Game (U) [!].nes"
+        },
+        {
+            "title": "Spy Hunter (u) [!]",
+            "file": "Spy Hunter (U) [!].nes"
+        },
+        {
+            "title": "Spy Vs Spy (u) [!]",
+            "file": "Spy vs Spy (U) [!].nes"
+        },
+        {
+            "title": "Sqoon (u) [!]",
+            "file": "Sqoon (U) [!].nes"
+        },
+        {
+            "title": "Squashed (u) (proto) [!]",
+            "file": "Squashed (U) (Proto) [!].nes"
+        },
+        {
+            "title": "Stadium Events (u) [!]",
+            "file": "Stadium Events (U) [!].nes"
+        },
+        {
+            "title": "Stanley - The Search For Dr. Livingston (u) [!]",
+            "file": "Stanley - The Search for Dr. Livingston (U) [!].nes"
+        },
+        {
+            "title": "Star Force (u) [!]",
+            "file": "Star Force (U) [!].nes"
+        },
+        {
+            "title": "Star Soldier (u) [!]",
+            "file": "Star Soldier (U) [!].nes"
+        },
+        {
+            "title": "Star Trek - 25th Anniversary (u) [!]",
+            "file": "Star Trek - 25th Anniversary (U) [!].nes"
+        },
+        {
+            "title": "Star Trek - 25th Anniversary (u) [hack1.0 Leonis (22.02.2014)] (11th Anniversary Hack)",
+            "file": "Star Trek - 25th Anniversary (U) [Hack1.0 Leonis (22.02.2014)] (11th anniversary hack).nes"
+        },
+        {
+            "title": "Star Trek - The Next Generation (u) [!]",
+            "file": "Star Trek - The Next Generation (U) [!].nes"
+        },
+        {
+            "title": "Star Trek V - The Final Frontier (u) (proto) [!]",
+            "file": "Star Trek V - The Final Frontier (U) (Proto) [!].nes"
+        },
+        {
+            "title": "Star Voyager (u) [!]",
+            "file": "Star Voyager (U) [!].nes"
+        },
+        {
+            "title": "Star Wars (u) [!]",
+            "file": "Star Wars (U) [!].nes"
+        },
+        {
+            "title": "Star Wars - The Empire Strikes Back (u) [!]",
+            "file": "Star Wars - The Empire Strikes Back (U) [!].nes"
+        },
+        {
+            "title": "Starship Hector (u) [!]",
+            "file": "Starship Hector (U) [!].nes"
+        },
+        {
+            "title": "Startropics (u) (vc) [!]",
+            "file": "StarTropics (U) (VC) [!].nes"
+        },
+        {
+            "title": "Startropics (u) [!]",
+            "file": "StarTropics (U) [!].nes"
+        },
+        {
+            "title": "Stealth Atf (u) [!]",
+            "file": "Stealth ATF (U) [!].nes"
+        },
+        {
+            "title": "Stinger (u) (vc) [!]",
+            "file": "Stinger (U) (VC) [!].nes"
+        },
+        {
+            "title": "Stinger (u) [!]",
+            "file": "Stinger (U) [!].nes"
+        },
+        {
+            "title": "Street Cop (u) [!]",
+            "file": "Street Cop (U) [!].nes"
+        },
+        {
+            "title": "Street Fighter 2010 - The Final Fight (u) [!]",
+            "file": "Street Fighter 2010 - The Final Fight (U) [!].nes"
+        },
+        {
+            "title": "Strider (u) (capcom Classics Mini Mix) [!]",
+            "file": "Strider (U) (Capcom Classics Mini Mix) [!].nes"
+        },
+        {
+            "title": "Strider (u) [!]",
+            "file": "Strider (U) [!].nes"
+        },
+        {
+            "title": "Super C (u) (contra Anniversary Collection) [!]",
+            "file": "Super C (U) (Contra Anniversary Collection) [!].nes"
+        },
+        {
+            "title": "Super C (u) [!]",
+            "file": "Super C (U) [!].nes"
+        },
+        {
+            "title": "Super Cars (u) [!]",
+            "file": "Super Cars (U) [!].nes"
+        },
+        {
+            "title": "Super Dodge Ball (u) (vc) [!]",
+            "file": "Super Dodge Ball (U) (VC) [!].nes"
+        },
+        {
+            "title": "Super Dodge Ball (u) [!]",
+            "file": "Super Dodge Ball (U) [!].nes"
+        },
+        {
+            "title": "Super Glove Ball (u) [!]",
+            "file": "Super Glove Ball (U) [!].nes"
+        },
+        {
+            "title": "Super Jeopardy! (u) [!]",
+            "file": "Super Jeopardy! (U) [!].nes"
+        },
+        {
+            "title": "Super Mario Bros. + Duck Hunt (u) [!]",
+            "file": "Super Mario Bros. + Duck Hunt (U) [!].nes"
+        },
+        {
+            "title": "Super Mario Bros. + Duck Hunt + World Class Track Meet (u) (v1.0) [!]",
+            "file": "Super Mario Bros. + Duck Hunt + World Class Track Meet (U) (V1.0) [!].nes"
+        },
+        {
+            "title": "Super Mario Bros. + Duck Hunt + World Class Track Meet (u) (v1.1) [!]",
+            "file": "Super Mario Bros. + Duck Hunt + World Class Track Meet (U) (V1.1) [!].nes"
+        },
+        {
+            "title": "Super Mario Bros. 2 (u) (v1.0) [!]",
+            "file": "Super Mario Bros. 2 (U) (V1.0) [!].nes"
+        },
+        {
+            "title": "Super Mario Bros. 2 (u) (v1.1) (vc) [!]",
+            "file": "Super Mario Bros. 2 (U) (V1.1) (VC) [!].nes"
+        },
+        {
+            "title": "Super Mario Bros. 2 (u) (v1.1) [!]",
+            "file": "Super Mario Bros. 2 (U) (V1.1) [!].nes"
+        },
+        {
+            "title": "Super Mario Bros. 3 (u) (v1.0) [!]",
+            "file": "Super Mario Bros. 3 (U) (V1.0) [!].nes"
+        },
+        {
+            "title": "Super Mario Bros. 3 (u) (v1.1) (vc) [!]",
+            "file": "Super Mario Bros. 3 (U) (V1.1) (VC) [!].nes"
+        },
+        {
+            "title": "Super Mario Bros. 3 (u) (v1.1) [!]",
+            "file": "Super Mario Bros. 3 (U) (V1.1) [!].nes"
+        },
+        {
+            "title": "Super Pitfall (u) [!]",
+            "file": "Super Pitfall (U) [!].nes"
+        },
+        {
+            "title": "Super Pitfall Ii (u) (proto) [!]",
+            "file": "Super Pitfall II (U) (Proto) [!].nes"
+        },
+        {
+            "title": "Super Spike V'ball (u) [!]",
+            "file": "Super Spike V'Ball (U) [!].nes"
+        },
+        {
+            "title": "Super Spike V'ball + Nintendo World Cup (u) [!]",
+            "file": "Super Spike V'Ball + Nintendo World Cup (U) [!].nes"
+        },
+        {
+            "title": "Super Spy Hunter (u) [!]",
+            "file": "Super Spy Hunter (U) [!].nes"
+        },
+        {
+            "title": "Super Team Games (u) [!]",
+            "file": "Super Team Games (U) [!].nes"
+        },
+        {
+            "title": "Superman (u) (sunsoft) (proto) [!]",
+            "file": "Superman (U) (Sunsoft) (Proto) [!].nes"
+        },
+        {
+            "title": "Superman (u) [!]",
+            "file": "Superman (U) [!].nes"
+        },
+        {
+            "title": "Swamp Thing (u) [!]",
+            "file": "Swamp Thing (U) [!].nes"
+        },
+        {
+            "title": "Sword Master (u) [!]",
+            "file": "Sword Master (U) [!].nes"
+        },
+        {
+            "title": "Swords And Serpents (u) [!]",
+            "file": "Swords and Serpents (U) [!].nes"
+        },
+        {
+            "title": "Taboo - The Sixth Sense (u) (v1.0) [!]",
+            "file": "Taboo - The Sixth Sense (U) (V1.0) [!].nes"
+        },
+        {
+            "title": "Taboo - The Sixth Sense (u) (v1.1) [!]",
+            "file": "Taboo - The Sixth Sense (U) (V1.1) [!].nes"
+        },
+        {
+            "title": "Tag Team Wrestling (u) [!]",
+            "file": "Tag Team Wrestling (U) [!].nes"
+        },
+        {
+            "title": "Talespin (u) [!]",
+            "file": "TaleSpin (U) [!].nes"
+        },
+        {
+            "title": "Target - Renegade (u) [!]",
+            "file": "Target - Renegade (U) [!].nes"
+        },
+        {
+            "title": "Taro's Quest (u) (proto) [!]",
+            "file": "Taro's Quest (U) (Proto) [!].nes"
+        },
+        {
+            "title": "Tecmo Baseball (u) [!]",
+            "file": "Tecmo Baseball (U) [!].nes"
+        },
+        {
+            "title": "Tecmo Bowl (u) (v1.0) [!]",
+            "file": "Tecmo Bowl (U) (V1.0) [!].nes"
+        },
+        {
+            "title": "Tecmo Bowl (u) (v1.1) (vc) [!]",
+            "file": "Tecmo Bowl (U) (V1.1) (VC) [!].nes"
+        },
+        {
+            "title": "Tecmo Bowl (u) (v1.1) [!]",
+            "file": "Tecmo Bowl (U) (V1.1) [!].nes"
+        },
+        {
+            "title": "Tecmo Cup - Soccer Game (u) [!]",
+            "file": "Tecmo Cup - Soccer Game (U) [!].nes"
+        },
+        {
+            "title": "Tecmo Nba Basketball (u) (nes-bk) (v1.0) [!]",
+            "file": "Tecmo NBA Basketball (U) (NES-BK) (V1.0) [!].nes"
+        },
+        {
+            "title": "Tecmo Nba Basketball (u) (nes-bk) (v1.1) [!]",
+            "file": "Tecmo NBA Basketball (U) (NES-BK) (V1.1) [!].nes"
+        },
+        {
+            "title": "Tecmo Nba Basketball (u) (nes-n7) [!]",
+            "file": "Tecmo NBA Basketball (U) (NES-N7) [!].nes"
+        },
+        {
+            "title": "Tecmo Super Bowl (u) [!]",
+            "file": "Tecmo Super Bowl (U) [!].nes"
+        },
+        {
+            "title": "Tecmo World Wrestling (u) [!]",
+            "file": "Tecmo World Wrestling (U) [!].nes"
+        },
+        {
+            "title": "Teenage Mutant Ninja Turtles (u) (the Cowabunga Collection) [!]",
+            "file": "Teenage Mutant Ninja Turtles (U) (The Cowabunga Collection) [!].nes"
+        },
+        {
+            "title": "Teenage Mutant Ninja Turtles (u) (vc) [!]",
+            "file": "Teenage Mutant Ninja Turtles (U) (VC) [!].nes"
+        },
+        {
+            "title": "Teenage Mutant Ninja Turtles (u) [!]",
+            "file": "Teenage Mutant Ninja Turtles (U) [!].nes"
+        },
+        {
+            "title": "Teenage Mutant Ninja Turtles - Tournament Fighters (u) (the Cowabunga Collection) [!]",
+            "file": "Teenage Mutant Ninja Turtles - Tournament Fighters (U) (The Cowabunga Collection) [!].nes"
+        },
+        {
+            "title": "Teenage Mutant Ninja Turtles - Tournament Fighters (u) [!]",
+            "file": "Teenage Mutant Ninja Turtles - Tournament Fighters (U) [!].nes"
+        },
+        {
+            "title": "Teenage Mutant Ninja Turtles Ii - The Arcade Game (u) (sample-1990.08.02) [!]",
+            "file": "Teenage Mutant Ninja Turtles II - The Arcade Game (U) (Sample-1990.08.02) [!].nes"
+        },
+        {
+            "title": "Teenage Mutant Ninja Turtles Ii - The Arcade Game (u) (sample-1990.08.20) [!]",
+            "file": "Teenage Mutant Ninja Turtles II - The Arcade Game (U) (Sample-1990.08.20) [!].nes"
+        },
+        {
+            "title": "Teenage Mutant Ninja Turtles Ii - The Arcade Game (u) (the Cowabunga Collection) [!]",
+            "file": "Teenage Mutant Ninja Turtles II - The Arcade Game (U) (The Cowabunga Collection) [!].nes"
+        },
+        {
+            "title": "Teenage Mutant Ninja Turtles Ii - The Arcade Game (u) [!]",
+            "file": "Teenage Mutant Ninja Turtles II - The Arcade Game (U) [!].nes"
+        },
+        {
+            "title": "Teenage Mutant Ninja Turtles Iii - The Manhattan Project (u) (the Cowabunga Collection) [!]",
+            "file": "Teenage Mutant Ninja Turtles III - The Manhattan Project (U) (The Cowabunga Collection) [!].nes"
+        },
+        {
+            "title": "Teenage Mutant Ninja Turtles Iii - The Manhattan Project (u) [!]",
+            "file": "Teenage Mutant Ninja Turtles III - The Manhattan Project (U) [!].nes"
+        },
+        {
+            "title": "Tennis (u) (e-reader) [!]",
+            "file": "Tennis (U) (e-Reader) [!].nes"
+        },
+        {
+            "title": "Terminator 2 - Judgment Day (u) [!]",
+            "file": "Terminator 2 - Judgment Day (U) [!].nes"
+        },
+        {
+            "title": "Terminator 2 - Judgment Day (u) [b1]",
+            "file": "Terminator 2 - Judgment Day (U) [b1].nes"
+        },
+        {
+            "title": "Terra Cresta (u) [!]",
+            "file": "Terra Cresta (U) [!].nes"
+        },
+        {
+            "title": "Tetris (u) [!]",
+            "file": "Tetris (U) [!].nes"
+        },
+        {
+            "title": "Tetris 2 (u) [!]",
+            "file": "Tetris 2 (U) [!].nes"
+        },
+        {
+            "title": "Thomas The Tank Engine & Friends (u) (proto) [!]",
+            "file": "Thomas the Tank Engine & Friends (U) (Proto) [!].nes"
+        },
+        {
+            "title": "Three Stooges, The (u) [!]",
+            "file": "Three Stooges, The (U) [!].nes"
+        },
+        {
+            "title": "Thunder & Lightning (u) [!]",
+            "file": "Thunder & Lightning (U) [!].nes"
+        },
+        {
+            "title": "Thunderbirds (u) [!]",
+            "file": "Thunderbirds (U) [!].nes"
+        },
+        {
+            "title": "Thundercade (u) [!]",
+            "file": "Thundercade (U) [!].nes"
+        },
+        {
+            "title": "Tiger-heli (u) (v1.0) [!]",
+            "file": "Tiger-Heli (U) (V1.0) [!].nes"
+        },
+        {
+            "title": "Tiger-heli (u) (v1.1) (proto) [!]",
+            "file": "Tiger-Heli (U) (V1.1) (Proto) [!].nes"
+        },
+        {
+            "title": "Time Diver - Eon Man (u) (proto) [!]",
+            "file": "Time Diver - Eon Man (U) (Proto) [!].nes"
+        },
+        {
+            "title": "Time Lord (u) [!]",
+            "file": "Time Lord (U) [!].nes"
+        },
+        {
+            "title": "Times Of Lore (u) [!]",
+            "file": "Times of Lore (U) [!].nes"
+        },
+        {
+            "title": "Tiny Toon Adventures (u) [!]",
+            "file": "Tiny Toon Adventures (U) [!].nes"
+        },
+        {
+            "title": "Tiny Toon Adventures - Cartoon Workshop (u) [!]",
+            "file": "Tiny Toon Adventures - Cartoon Workshop (U) [!].nes"
+        },
+        {
+            "title": "Tiny Toon Adventures 2 - Trouble In Wackyland (u) [!]",
+            "file": "Tiny Toon Adventures 2 - Trouble in Wackyland (U) [!].nes"
+        },
+        {
+            "title": "Titan Warriors (u) (proto) [!]",
+            "file": "Titan Warriors (U) (Proto) [!].nes"
+        },
+        {
+            "title": "To The Earth (u) [!]",
+            "file": "To the Earth (U) [!].nes"
+        },
+        {
+            "title": "Toki (u) [!]",
+            "file": "Toki (U) [!].nes"
+        },
+        {
+            "title": "Tom & Jerry - The Ultimate Game Of Cat And Mouse! (u) [!]",
+            "file": "Tom & Jerry - The Ultimate Game of Cat and Mouse! (U) [!].nes"
+        },
+        {
+            "title": "Tombs & Treasure (u) [!]",
+            "file": "Tombs & Treasure (U) [!].nes"
+        },
+        {
+            "title": "Tommy T's Sound Editor (u) (proto) [!]",
+            "file": "Tommy T'S Sound Editor (U) (Proto) [!].nes"
+        },
+        {
+            "title": "Top Gun (u) (v1.0) [!]",
+            "file": "Top Gun (U) (V1.0) [!].nes"
+        },
+        {
+            "title": "Top Gun (u) (v1.1) [!]",
+            "file": "Top Gun (U) (V1.1) [!].nes"
+        },
+        {
+            "title": "Top Gun - The Second Mission (u) [!]",
+            "file": "Top Gun - The Second Mission (U) [!].nes"
+        },
+        {
+            "title": "Total Recall (u) [!]",
+            "file": "Total Recall (U) [!].nes"
+        },
+        {
+            "title": "Totally Rad (u) [!]",
+            "file": "Totally Rad (U) [!].nes"
+        },
+        {
+            "title": "Touchdown Fever (u) [!]",
+            "file": "Touchdown Fever (U) [!].nes"
+        },
+        {
+            "title": "Tower Of Radia (u) (proto)",
+            "file": "Tower of Radia (U) (Proto).nes"
+        },
+        {
+            "title": "Town & Country Surf Designs - Thrilla's Surfari (u) [!]",
+            "file": "Town & Country Surf Designs - Thrilla's Surfari (U) [!].nes"
+        },
+        {
+            "title": "Town & Country Surf Designs - Wood & Water Rage (u) [!]",
+            "file": "Town & Country Surf Designs - Wood & Water Rage (U) [!].nes"
+        },
+        {
+            "title": "Toxic Crusaders (u) [!]",
+            "file": "Toxic Crusaders (U) [!].nes"
+        },
+        {
+            "title": "Track & Field (u) [!]",
+            "file": "Track & Field (U) [!].nes"
+        },
+        {
+            "title": "Track & Field Ii (u) (v1.0) [!]",
+            "file": "Track & Field II (U) (V1.0) [!].nes"
+        },
+        {
+            "title": "Track & Field Ii (u) (v1.1) [!]",
+            "file": "Track & Field II (U) (V1.1) [!].nes"
+        },
+        {
+            "title": "Treasure Master (u) [!]",
+            "file": "Treasure Master (U) [!].nes"
+        },
+        {
+            "title": "Trog! (u) [!]",
+            "file": "Trog! (U) [!].nes"
+        },
+        {
+            "title": "Trojan (u) [!]",
+            "file": "Trojan (U) [!].nes"
+        },
+        {
+            "title": "Twin Cobra (u) [!]",
+            "file": "Twin Cobra (U) [!].nes"
+        },
+        {
+            "title": "Twin Eagle (u) [!]",
+            "file": "Twin Eagle (U) [!].nes"
+        },
+        {
+            "title": "U-force Power Games (u) (proto-1) [!]",
+            "file": "U-Force Power Games (U) (Proto-1) [!].nes"
+        },
+        {
+            "title": "U-force Power Games (u) (proto-2) (nintendoage) [h1]",
+            "file": "U-Force Power Games (U) (Proto-2) (NintendoAge) [h1].nes"
+        },
+        {
+            "title": "U-force Test (u)",
+            "file": "U-Force Test (U).nes"
+        },
+        {
+            "title": "Ufouria - The Saga (u) (proto-1) [b1]",
+            "file": "Ufouria - The Saga (U) (Proto-1) [b1].nes"
+        },
+        {
+            "title": "Ufouria - The Saga (u) (proto-2) [!]",
+            "file": "Ufouria - The Saga (U) (Proto-2) [!].nes"
+        },
+        {
+            "title": "Ultima - Exodus (u) [!]",
+            "file": "Ultima - Exodus (U) [!].nes"
+        },
+        {
+            "title": "Ultima - Quest Of The Avatar (u) [!]",
+            "file": "Ultima - Quest of the Avatar (U) [!].nes"
+        },
+        {
+            "title": "Ultima - Warriors Of Destiny (u) [!]",
+            "file": "Ultima - Warriors of Destiny (U) [!].nes"
+        },
+        {
+            "title": "Ultimate Air Combat (u) [!]",
+            "file": "Ultimate Air Combat (U) [!].nes"
+        },
+        {
+            "title": "Ultimate Basketball (u) [!]",
+            "file": "Ultimate Basketball (U) [!].nes"
+        },
+        {
+            "title": "Uncanny X-men, The (u) [!]",
+            "file": "Uncanny X-Men, The (U) [!].nes"
+        },
+        {
+            "title": "Uncharted Waters (u) [!]",
+            "file": "Uncharted Waters (U) [!].nes"
+        },
+        {
+            "title": "Uninvited (u) [!]",
+            "file": "Uninvited (U) [!].nes"
+        },
+        {
+            "title": "Untouchables, The (u) (1.0) [!]",
+            "file": "Untouchables, The (U) (1.0) [!].nes"
+        },
+        {
+            "title": "Untouchables, The (u) (1.1) [!]",
+            "file": "Untouchables, The (U) (1.1) [!].nes"
+        },
+        {
+            "title": "Untouchables, The (u) (1.2) [!]",
+            "file": "Untouchables, The (U) (1.2) [!].nes"
+        },
+        {
+            "title": "Urban Champion (u) (e-reader) [!]",
+            "file": "Urban Champion (U) (e-Reader) [!].nes"
+        },
+        {
+            "title": "Uwc (u) (proto) [!]",
+            "file": "UWC (U) (Proto) [!].nes"
+        },
+        {
+            "title": "Vegas Dream (u) [!]",
+            "file": "Vegas Dream (U) [!].nes"
+        },
+        {
+            "title": "Vice - Project Doom (u) [!]",
+            "file": "Vice - Project Doom (U) [!].nes"
+        },
+        {
+            "title": "Videomation (u) [!]",
+            "file": "Videomation (U) [!].nes"
+        },
+        {
+            "title": "Wacky Races (u) [!]",
+            "file": "Wacky Races (U) [!].nes"
+        },
+        {
+            "title": "Wall Street Kid (u) [!]",
+            "file": "Wall Street Kid (U) [!].nes"
+        },
+        {
+            "title": "War On Wheels (u) (proto) [!]",
+            "file": "War on Wheels (U) (Proto) [!].nes"
+        },
+        {
+            "title": "Wario's Woods (u) [!]",
+            "file": "Wario's Woods (U) [!].nes"
+        },
+        {
+            "title": "Wayne Gretzky Hockey (u) [!]",
+            "file": "Wayne Gretzky Hockey (U) [!].nes"
+        },
+        {
+            "title": "Wayne's World (u) [!]",
+            "file": "Wayne's World (U) [!].nes"
+        },
+        {
+            "title": "Wcw World Championship Wrestling (u) [!]",
+            "file": "WCW World Championship Wrestling (U) [!].nes"
+        },
+        {
+            "title": "Werewolf - The Last Warrior (u) [!]",
+            "file": "Werewolf - The Last Warrior (U) [!].nes"
+        },
+        {
+            "title": "Wheel Of Fortune (u) (v1.0) [!]",
+            "file": "Wheel of Fortune (U) (V1.0) [!].nes"
+        },
+        {
+            "title": "Wheel Of Fortune (u) (v1.1) [!]",
+            "file": "Wheel of Fortune (U) (V1.1) [!].nes"
+        },
+        {
+            "title": "Wheel Of Fortune - Family Edition (u) [!]",
+            "file": "Wheel of Fortune - Family Edition (U) [!].nes"
+        },
+        {
+            "title": "Wheel Of Fortune - Junior Edition (u) [!]",
+            "file": "Wheel of Fortune - Junior Edition (U) [!].nes"
+        },
+        {
+            "title": "Wheel Of Fortune Featuring Vanna White (u) [!]",
+            "file": "Wheel of Fortune Featuring Vanna White (U) [!].nes"
+        },
+        {
+            "title": "Where In Time Is Carmen Sandiego (u) [!]",
+            "file": "Where in Time is Carmen Sandiego (U) [!].nes"
+        },
+        {
+            "title": "Where's Waldo (u) [!]",
+            "file": "Where's Waldo (U) [!].nes"
+        },
+        {
+            "title": "Who Framed Roger Rabbit (u) [!]",
+            "file": "Who Framed Roger Rabbit (U) [!].nes"
+        },
+        {
+            "title": "Whomp 'em (u) [!]",
+            "file": "Whomp 'Em (U) [!].nes"
+        },
+        {
+            "title": "Widget (u) [!]",
+            "file": "Widget (U) [!].nes"
+        },
+        {
+            "title": "Willow (u) [!]",
+            "file": "Willow (U) [!].nes"
+        },
+        {
+            "title": "Win, Lose Or Draw (u) [!]",
+            "file": "Win, Lose or Draw (U) [!].nes"
+        },
+        {
+            "title": "Winter Games (u) (v1.0) [!]",
+            "file": "Winter Games (U) (V1.0) [!].nes"
+        },
+        {
+            "title": "Winter Games (u) (v1.1) [!]",
+            "file": "Winter Games (U) (V1.1) [!].nes"
+        },
+        {
+            "title": "Wizardry - Knight Of Diamonds - The Second Scenario (u) [!]",
+            "file": "Wizardry - Knight of Diamonds - The Second Scenario (U) [!].nes"
+        },
+        {
+            "title": "Wizardry - Proving Grounds Of The Mad Overlord (u) [!]",
+            "file": "Wizardry - Proving Grounds of the Mad Overlord (U) [!].nes"
+        },
+        {
+            "title": "Wizards & Warriors (u) (v1.0) [!]",
+            "file": "Wizards & Warriors (U) (V1.0) [!].nes"
+        },
+        {
+            "title": "Wizards & Warriors (u) (v1.1) [!]",
+            "file": "Wizards & Warriors (U) (V1.1) [!].nes"
+        },
+        {
+            "title": "Wizards & Warriors Iii - Kuros...visions Of Power (u) [!]",
+            "file": "Wizards & Warriors III - Kuros...Visions of Power (U) [!].nes"
+        },
+        {
+            "title": "Wolverine (u) [!]",
+            "file": "Wolverine (U) [!].nes"
+        },
+        {
+            "title": "World Champ (u) [!]",
+            "file": "World Champ (U) [!].nes"
+        },
+        {
+            "title": "World Class Track Meet (u) (v1.0) [!]",
+            "file": "World Class Track Meet (U) (V1.0) [!].nes"
+        },
+        {
+            "title": "World Class Track Meet (u) (v1.1) [!]",
+            "file": "World Class Track Meet (U) (V1.1) [!].nes"
+        },
+        {
+            "title": "World Games (u) [!]",
+            "file": "World Games (U) [!].nes"
+        },
+        {
+            "title": "Wrath Of The Black Manta (u) (v1.0) [!]",
+            "file": "Wrath of the Black Manta (U) (V1.0) [!].nes"
+        },
+        {
+            "title": "Wrath Of The Black Manta (u) (v1.1) [!]",
+            "file": "Wrath of the Black Manta (U) (V1.1) [!].nes"
+        },
+        {
+            "title": "Wurm - Journey To The Center Of The Earth! (u) [!]",
+            "file": "Wurm - Journey to the Center of the Earth! (U) [!].nes"
+        },
+        {
+            "title": "Wwf King Of The Ring (u) [!]",
+            "file": "WWF King of the Ring (U) [!].nes"
+        },
+        {
+            "title": "Wwf Wrestlemania (u) [!]",
+            "file": "WWF WrestleMania (U) [!].nes"
+        },
+        {
+            "title": "Wwf Wrestlemania - Challenge (u) [!]",
+            "file": "WWF WrestleMania - Challenge (U) [!].nes"
+        },
+        {
+            "title": "Wwf Wrestlemania - Steel Cage Challenge (u) [!]",
+            "file": "WWF WrestleMania - Steel Cage Challenge (U) [!].nes"
+        },
+        {
+            "title": "Xenophobe (u) [!]",
+            "file": "Xenophobe (U) [!].nes"
+        },
+        {
+            "title": "Xevious - The Avenger (u) [!]",
+            "file": "Xevious - The Avenger (U) [!].nes"
+        },
+        {
+            "title": "Xexyz (u) [!]",
+            "file": "Xexyz (U) [!].nes"
+        },
+        {
+            "title": "Xexyz (u) [f1] (sram)",
+            "file": "Xexyz (U) [f1] (SRAM).nes"
+        },
+        {
+            "title": "Yo! Noid (u) [!]",
+            "file": "Yo! Noid (U) [!].nes"
+        },
+        {
+            "title": "Yoshi (u) [!]",
+            "file": "Yoshi (U) [!].nes"
+        },
+        {
+            "title": "Yoshi's Cookie (u) (vc) [!]",
+            "file": "Yoshi's Cookie (U) (VC) [!].nes"
+        },
+        {
+            "title": "Yoshi's Cookie (u) [!]",
+            "file": "Yoshi's Cookie (U) [!].nes"
+        },
+        {
+            "title": "Young Indiana Jones Chronicles, The (u) [!]",
+            "file": "Young Indiana Jones Chronicles, The (U) [!].nes"
+        },
+        {
+            "title": "Zanac (u) [!]",
+            "file": "Zanac (U) [!].nes"
+        },
+        {
+            "title": "Zelda Ii - The Adventure Of Link (u) (gc) [!]",
+            "file": "Zelda II - The Adventure of Link (U) (GC) [!].nes"
+        },
+        {
+            "title": "Zelda Ii - The Adventure Of Link (u) (vc) [!]",
+            "file": "Zelda II - The Adventure of Link (U) (VC) [!].nes"
+        },
+        {
+            "title": "Zelda Ii - The Adventure Of Link (u) [!]",
+            "file": "Zelda II - The Adventure of Link (U) [!].nes"
+        },
+        {
+            "title": "Zen - Intergalactic Ninja (u) [!]",
+            "file": "Zen - Intergalactic Ninja (U) [!].nes"
+        },
+        {
+            "title": "Zoda's Revenge - Startropics Ii (u) [!]",
+            "file": "Zoda's Revenge - StarTropics II (U) [!].nes"
+        },
+        {
+            "title": "Zombie Nation (u) [!]",
+            "file": "Zombie Nation (U) [!].nes"
+        }
+    ],
+    "core": "fceumm"
+}

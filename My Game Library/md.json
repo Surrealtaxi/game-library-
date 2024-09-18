@@ -1,0 +1,20 @@
+{
+    "name": "My Game Library",
+    "consoles": [
+        {
+            "name": "GBA",
+            "folder": "Gba",
+            "core": "Mgba"
+        },
+        {
+            "name": "NES",
+            "folder": "Nes",
+            "core": "fceumm"
+        },
+        {
+            "name": "SNES",
+            "folder": "Snes",
+            "core": "snes9x"
+        }
+    ]
+}
